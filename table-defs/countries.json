@@ -1,0 +1,994 @@
+[
+  [
+    180,
+    "Aruba"
+  ],
+  [
+    652230,
+    "Islamic Republic of Afghanistan"
+  ],
+  [
+    1246700,
+    "Republic of Angola"
+  ],
+  [
+    91,
+    "Anguilla"
+  ],
+  [
+    1580,
+    "Åland Islands"
+  ],
+  [
+    28748,
+    "Republic of Albania"
+  ],
+  [
+    468,
+    "Principality of Andorra"
+  ],
+  [
+    83600,
+    "United Arab Emirates"
+  ],
+  [
+    2780400,
+    "Argentine Republic"
+  ],
+  [
+    29743,
+    "Republic of Armenia"
+  ],
+  [
+    199,
+    "American Samoa"
+  ],
+  [
+    14000000,
+    "Antarctica"
+  ],
+  [
+    7747,
+    "Territory of the French Southern and Antarctic Lands"
+  ],
+  [
+    442,
+    "Antigua and Barbuda"
+  ],
+  [
+    7692024,
+    "Commonwealth of Australia"
+  ],
+  [
+    83871,
+    "Republic of Austria"
+  ],
+  [
+    86600,
+    "Republic of Azerbaijan"
+  ],
+  [
+    27834,
+    "Republic of Burundi"
+  ],
+  [
+    30528,
+    "Kingdom of Belgium"
+  ],
+  [
+    112622,
+    "Republic of Benin"
+  ],
+  [
+    272967,
+    "Burkina Faso"
+  ],
+  [
+    147570,
+    "People's Republic of Bangladesh"
+  ],
+  [
+    110879,
+    "Republic of Bulgaria"
+  ],
+  [
+    765,
+    "Kingdom of Bahrain"
+  ],
+  [
+    13943,
+    "Commonwealth of the Bahamas"
+  ],
+  [
+    51209,
+    "Bosnia and Herzegovina"
+  ],
+  [
+    21,
+    "Collectivity of Saint Barthélemy"
+  ],
+  [
+    207600,
+    "Republic of Belarus"
+  ],
+  [
+    22966,
+    "Belize"
+  ],
+  [
+    54,
+    "Bermuda"
+  ],
+  [
+    1098581,
+    "Plurinational State of Bolivia"
+  ],
+  [
+    8515767,
+    "Federative Republic of Brazil"
+  ],
+  [
+    430,
+    "Barbados"
+  ],
+  [
+    5765,
+    "Nation of Brunei, Abode of Peace"
+  ],
+  [
+    38394,
+    "Kingdom of Bhutan"
+  ],
+  [
+    49,
+    "Bouvet Island"
+  ],
+  [
+    582000,
+    "Republic of Botswana"
+  ],
+  [
+    622984,
+    "Central African Republic"
+  ],
+  [
+    9984670,
+    "Canada"
+  ],
+  [
+    14,
+    "Territory of the Cocos (Keeling) Islands"
+  ],
+  [
+    41284,
+    "Swiss Confederation"
+  ],
+  [
+    756102,
+    "Republic of Chile"
+  ],
+  [
+    9706961,
+    "People's Republic of China"
+  ],
+  [
+    322463,
+    "Republic of Côte d'Ivoire"
+  ],
+  [
+    475442,
+    "Republic of Cameroon"
+  ],
+  [
+    2344858,
+    "Democratic Republic of the Congo"
+  ],
+  [
+    342000,
+    "Republic of the Congo"
+  ],
+  [
+    236,
+    "Cook Islands"
+  ],
+  [
+    1141748,
+    "Republic of Colombia"
+  ],
+  [
+    1862,
+    "Union of the Comoros"
+  ],
+  [
+    4033,
+    "Republic of Cabo Verde"
+  ],
+  [
+    51100,
+    "Republic of Costa Rica"
+  ],
+  [
+    109884,
+    "Republic of Cuba"
+  ],
+  [
+    444,
+    "Country of Curaçao"
+  ],
+  [
+    135,
+    "Territory of Christmas Island"
+  ],
+  [
+    264,
+    "Cayman Islands"
+  ],
+  [
+    9251,
+    "Republic of Cyprus"
+  ],
+  [
+    78865,
+    "Czech Republic"
+  ],
+  [
+    357114,
+    "Federal Republic of Germany"
+  ],
+  [
+    23200,
+    "Republic of Djibouti"
+  ],
+  [
+    751,
+    "Commonwealth of Dominica"
+  ],
+  [
+    43094,
+    "Kingdom of Denmark"
+  ],
+  [
+    48671,
+    "Dominican Republic"
+  ],
+  [
+    2381741,
+    "People's Democratic Republic of Algeria"
+  ],
+  [
+    276841,
+    "Republic of Ecuador"
+  ],
+  [
+    1002450,
+    "Arab Republic of Egypt"
+  ],
+  [
+    117600,
+    "State of Eritrea"
+  ],
+  [
+    266000,
+    "Sahrawi Arab Democratic Republic"
+  ],
+  [
+    505992,
+    "Kingdom of Spain"
+  ],
+  [
+    45227,
+    "Republic of Estonia"
+  ],
+  [
+    1104300,
+    "Federal Democratic Republic of Ethiopia"
+  ],
+  [
+    338424,
+    "Republic of Finland"
+  ],
+  [
+    18272,
+    "Republic of Fiji"
+  ],
+  [
+    12173,
+    "Falkland Islands"
+  ],
+  [
+    551695,
+    "French Republic"
+  ],
+  [
+    1393,
+    "Faroe Islands"
+  ],
+  [
+    702,
+    "Federated States of Micronesia"
+  ],
+  [
+    267668,
+    "Gabonese Republic"
+  ],
+  [
+    242900,
+    "United Kingdom of Great Britain and Northern Ireland"
+  ],
+  [
+    69700,
+    "Georgia"
+  ],
+  [
+    78,
+    "Bailiwick of Guernsey"
+  ],
+  [
+    238533,
+    "Republic of Ghana"
+  ],
+  [
+    6,
+    "Gibraltar"
+  ],
+  [
+    245857,
+    "Republic of Guinea"
+  ],
+  [
+    1628,
+    "Guadeloupe"
+  ],
+  [
+    10689,
+    "Republic of the Gambia"
+  ],
+  [
+    36125,
+    "Republic of Guinea-Bissau"
+  ],
+  [
+    28051,
+    "Republic of Equatorial Guinea"
+  ],
+  [
+    131990,
+    "Hellenic Republic"
+  ],
+  [
+    344,
+    "Grenada"
+  ],
+  [
+    2166086,
+    "Greenland"
+  ],
+  [
+    108889,
+    "Republic of Guatemala"
+  ],
+  [
+    83534,
+    "Guiana"
+  ],
+  [
+    549,
+    "Guam"
+  ],
+  [
+    214969,
+    "Co-operative Republic of Guyana"
+  ],
+  [
+    1104,
+    "Hong Kong Special Administrative Region of the People's Republic of China"
+  ],
+  [
+    412,
+    "Heard Island and McDonald Islands"
+  ],
+  [
+    112492,
+    "Republic of Honduras"
+  ],
+  [
+    56594,
+    "Republic of Croatia"
+  ],
+  [
+    27750,
+    "Republic of Haiti"
+  ],
+  [
+    93028,
+    "Hungary"
+  ],
+  [
+    1904569,
+    "Republic of Indonesia"
+  ],
+  [
+    572,
+    "Isle of Man"
+  ],
+  [
+    3287590,
+    "Republic of India"
+  ],
+  [
+    60,
+    "British Indian Ocean Territory"
+  ],
+  [
+    70273,
+    "Republic of Ireland"
+  ],
+  [
+    1648195,
+    "Islamic Republic of Iran"
+  ],
+  [
+    438317,
+    "Republic of Iraq"
+  ],
+  [
+    103000,
+    "Iceland"
+  ],
+  [
+    20770,
+    "State of Israel"
+  ],
+  [
+    301336,
+    "Italian Republic"
+  ],
+  [
+    10991,
+    "Jamaica"
+  ],
+  [
+    116,
+    "Bailiwick of Jersey"
+  ],
+  [
+    89342,
+    "Hashemite Kingdom of Jordan"
+  ],
+  [
+    377930,
+    "Japan"
+  ],
+  [
+    2724900,
+    "Republic of Kazakhstan"
+  ],
+  [
+    580367,
+    "Republic of Kenya"
+  ],
+  [
+    199951,
+    "Kyrgyz Republic"
+  ],
+  [
+    181035,
+    "Kingdom of Cambodia"
+  ],
+  [
+    811,
+    "Independent and Sovereign Republic of Kiribati"
+  ],
+  [
+    261,
+    "Federation of Saint Christopher and Nevisa"
+  ],
+  [
+    100210,
+    "Republic of Korea"
+  ],
+  [
+    10908,
+    "Republic of Kosovo"
+  ],
+  [
+    17818,
+    "State of Kuwait"
+  ],
+  [
+    236800,
+    "Lao People's Democratic Republic"
+  ],
+  [
+    10452,
+    "Lebanese Republic"
+  ],
+  [
+    111369,
+    "Republic of Liberia"
+  ],
+  [
+    1759540,
+    "State of Libya"
+  ],
+  [
+    616,
+    "Saint Lucia"
+  ],
+  [
+    160,
+    "Principality of Liechtenstein"
+  ],
+  [
+    65610,
+    "Democratic Socialist Republic of Sri Lanka"
+  ],
+  [
+    30355,
+    "Kingdom of Lesotho"
+  ],
+  [
+    65300,
+    "Republic of Lithuania"
+  ],
+  [
+    2586,
+    "Grand Duchy of Luxembourg"
+  ],
+  [
+    64559,
+    "Republic of Latvia"
+  ],
+  [
+    30,
+    "Macao Special Administrative Region of the People's Republic of China"
+  ],
+  [
+    53,
+    "Saint Martin"
+  ],
+  [
+    446550,
+    "Kingdom of Morocco"
+  ],
+  [
+    2.02,
+    "Principality of Monaco"
+  ],
+  [
+    33846,
+    "Republic of Moldova"
+  ],
+  [
+    587041,
+    "Republic of Madagascar"
+  ],
+  [
+    300,
+    "Republic of the Maldives"
+  ],
+  [
+    1964375,
+    "United Mexican States"
+  ],
+  [
+    181,
+    "Republic of the Marshall Islands"
+  ],
+  [
+    25713,
+    "Republic of Macedonia"
+  ],
+  [
+    1240192,
+    "Republic of Mali"
+  ],
+  [
+    316,
+    "Republic of Malta"
+  ],
+  [
+    676578,
+    "Republic of the Union of Myanmar"
+  ],
+  [
+    13812,
+    "Montenegro"
+  ],
+  [
+    1564110,
+    "Mongolia"
+  ],
+  [
+    464,
+    "Commonwealth of the Northern Mariana Islands"
+  ],
+  [
+    801590,
+    "Republic of Mozambique"
+  ],
+  [
+    1030700,
+    "Islamic Republic of Mauritania"
+  ],
+  [
+    102,
+    "Montserrat"
+  ],
+  [
+    1128,
+    "Martinique"
+  ],
+  [
+    2040,
+    "Republic of Mauritius"
+  ],
+  [
+    118484,
+    "Republic of Malawi"
+  ],
+  [
+    330803,
+    "Malaysia"
+  ],
+  [
+    374,
+    "Department of Mayotte"
+  ],
+  [
+    825615,
+    "Republic of Namibia"
+  ],
+  [
+    18575,
+    "New Caledonia"
+  ],
+  [
+    1267000,
+    "Republic of Niger"
+  ],
+  [
+    36,
+    "Territory of Norfolk Island"
+  ],
+  [
+    923768,
+    "Federal Republic of Nigeria"
+  ],
+  [
+    130373,
+    "Republic of Nicaragua"
+  ],
+  [
+    260,
+    "Niue"
+  ],
+  [
+    41850,
+    "Netherlands"
+  ],
+  [
+    323802,
+    "Kingdom of Norway"
+  ],
+  [
+    147181,
+    "Federal Democratic Republic of Nepal"
+  ],
+  [
+    21,
+    "Republic of Nauru"
+  ],
+  [
+    270467,
+    "New Zealand"
+  ],
+  [
+    309500,
+    "Sultanate of Oman"
+  ],
+  [
+    881912,
+    "Islamic Republic of Pakistan"
+  ],
+  [
+    75417,
+    "Republic of Panama"
+  ],
+  [
+    47,
+    "Pitcairn Group of Islands"
+  ],
+  [
+    1285216,
+    "Republic of Peru"
+  ],
+  [
+    342353,
+    "Republic of the Philippines"
+  ],
+  [
+    459,
+    "Republic of Palau"
+  ],
+  [
+    462840,
+    "Independent State of Papua New Guinea"
+  ],
+  [
+    312679,
+    "Republic of Poland"
+  ],
+  [
+    8870,
+    "Commonwealth of Puerto Rico"
+  ],
+  [
+    120538,
+    "Democratic People's Republic of Korea"
+  ],
+  [
+    92090,
+    "Portuguese Republic"
+  ],
+  [
+    406752,
+    "Republic of Paraguay"
+  ],
+  [
+    6220,
+    "State of Palestine"
+  ],
+  [
+    4167,
+    "French Polynesia"
+  ],
+  [
+    11586,
+    "State of Qatar"
+  ],
+  [
+    2511,
+    "Réunion Island"
+  ],
+  [
+    238391,
+    "Romania"
+  ],
+  [
+    17098242,
+    "Russian Federation"
+  ],
+  [
+    26338,
+    "Republic of Rwanda"
+  ],
+  [
+    2149690,
+    "Kingdom of Saudi Arabia"
+  ],
+  [
+    1886068,
+    "Republic of the Sudan"
+  ],
+  [
+    196722,
+    "Republic of Senegal"
+  ],
+  [
+    710,
+    "Republic of Singapore"
+  ],
+  [
+    3903,
+    "South Georgia and the South Sandwich Islands"
+  ],
+  [
+    -1,
+    "Svalbard og Jan Mayen"
+  ],
+  [
+    28896,
+    "Solomon Islands"
+  ],
+  [
+    71740,
+    "Republic of Sierra Leone"
+  ],
+  [
+    21041,
+    "Republic of El Salvador"
+  ],
+  [
+    61,
+    "Most Serene Republic of San Marino"
+  ],
+  [
+    637657,
+    "Federal Republic of Somalia"
+  ],
+  [
+    242,
+    "Saint Pierre and Miquelon"
+  ],
+  [
+    88361,
+    "Republic of Serbia"
+  ],
+  [
+    619745,
+    "Republic of South Sudan"
+  ],
+  [
+    964,
+    "Democratic Republic of São Tomé and Príncipe"
+  ],
+  [
+    163820,
+    "Republic of Suriname"
+  ],
+  [
+    49037,
+    "Slovak Republic"
+  ],
+  [
+    20273,
+    "Republic of Slovenia"
+  ],
+  [
+    450295,
+    "Kingdom of Sweden"
+  ],
+  [
+    17364,
+    "Kingdom of Swaziland"
+  ],
+  [
+    34,
+    "Sint Maarten"
+  ],
+  [
+    452,
+    "Republic of Seychelles"
+  ],
+  [
+    185180,
+    "Syrian Arab Republic"
+  ],
+  [
+    948,
+    "Turks and Caicos Islands"
+  ],
+  [
+    1284000,
+    "Republic of Chad"
+  ],
+  [
+    56785,
+    "Togolese Republic"
+  ],
+  [
+    513120,
+    "Kingdom of Thailand"
+  ],
+  [
+    143100,
+    "Republic of Tajikistan"
+  ],
+  [
+    12,
+    "Tokelau"
+  ],
+  [
+    488100,
+    "Turkmenistan"
+  ],
+  [
+    14874,
+    "Democratic Republic of Timor-Leste"
+  ],
+  [
+    747,
+    "Kingdom of Tonga"
+  ],
+  [
+    5130,
+    "Republic of Trinidad and Tobago"
+  ],
+  [
+    163610,
+    "Tunisian Republic"
+  ],
+  [
+    783562,
+    "Republic of Turkey"
+  ],
+  [
+    26,
+    "Tuvalu"
+  ],
+  [
+    36193,
+    "Republic of China (Taiwan)"
+  ],
+  [
+    945087,
+    "United Republic of Tanzania"
+  ],
+  [
+    241550,
+    "Republic of Uganda"
+  ],
+  [
+    603500,
+    "Ukraine"
+  ],
+  [
+    34.2,
+    "United States Minor Outlying Islands"
+  ],
+  [
+    181034,
+    "Oriental Republic of Uruguay"
+  ],
+  [
+    9372610,
+    "United States of America"
+  ],
+  [
+    447400,
+    "Republic of Uzbekistan"
+  ],
+  [
+    0.44,
+    "Vatican City State"
+  ],
+  [
+    389,
+    "Saint Vincent and the Grenadines"
+  ],
+  [
+    916445,
+    "Bolivarian Republic of Venezuela"
+  ],
+  [
+    151,
+    "Virgin Islands"
+  ],
+  [
+    347,
+    "Virgin Islands of the United States"
+  ],
+  [
+    331212,
+    "Socialist Republic of Vietnam"
+  ],
+  [
+    12189,
+    "Republic of Vanuatu"
+  ],
+  [
+    142,
+    "Territory of the Wallis and Futuna Islands"
+  ],
+  [
+    2842,
+    "Independent State of Samoa"
+  ],
+  [
+    527968,
+    "Republic of Yemen"
+  ],
+  [
+    1221037,
+    "Republic of South Africa"
+  ],
+  [
+    752612,
+    "Republic of Zambia"
+  ],
+  [
+    390757,
+    "Republic of Zimbabwe"
+  ]
+]

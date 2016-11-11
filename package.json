@@ -1,0 +1,34 @@
+{
+  "name": "spawn-secret-site",
+  "version": "1.0.0",
+  "description": "Spawns a Secret Site.",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jimkang/spawn-secret-site.git"
+  },
+  "keywords": [],
+  "author": "Jim Kang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jimkang/spawn-secret-site/issues"
+  },
+  "homepage": "https://github.com/jimkang/spawn-secret-site",
+  "devDependencies": {
+    "eslint": "^3.6.1",
+    "tape": "^4.6.0"
+  },
+  "dependencies": {
+    "call-next-tick": "^1.1.2",
+    "lodash.compact": "^3.0.1",
+    "lodash.flatten": "^4.4.0",
+    "lodash.pluck": "^3.1.2",
+    "lodash.values": "^4.3.0",
+    "probable": "^2.1.0",
+    "seedrandom": "^2.4.2",
+    "wordnok": "^3.2.0"
+  }
+}
