@@ -6,6 +6,7 @@ var medievalPowers = require('./medieval-powers');
 var carCompanies = require('./car-companies');
 var publicCorps = require('./public-corps');
 var newspapers = require('./newspapers');
+var religions = require('./religions');
 
 module.exports = [
   [
@@ -25,7 +26,7 @@ module.exports = [
     ]
   ],
   [
-    8 * 1000,
+    8,
     // 'corporation'
     [
       [2, carCompanies],
@@ -33,7 +34,7 @@ module.exports = [
       [3, newspapers]
     ]
   ],
-  [8, 'religion'],
+  [8 * 1000, religions],
   [3, 'animal'],
   [3, 'nonAnimalLife'],
   [6, 'demihumans'],
