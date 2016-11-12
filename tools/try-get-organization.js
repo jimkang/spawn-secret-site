@@ -1,6 +1,6 @@
 /* global process */
 
-var organizationDefs = require('../table-defs/organization-types');
+var MakeOrganization = require('../make-organization');
 var seedrandom = require('seedrandom');
 var createProbable = require('probable').createProbable;
 
@@ -13,4 +13,7 @@ var probable = createProbable({
   random: random
 });
 
-console.log(probable.createTableFromSizes(organizationDefs).roll());
+var makeOrganization = MakeOrganization({probable: probable});
+
+console.log(JSON.stringify(makeOrganization(), null, '  '));
+

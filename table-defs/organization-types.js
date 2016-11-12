@@ -34,7 +34,7 @@ module.exports = [
       [3, newspapers]
     ]
   ],
-  [8 * 1000, religions],
+  [8, religions],
   [3, 'animal'],
   [3, 'nonAnimalLife'],
   [6, 'demihumans'],
