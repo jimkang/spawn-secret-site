@@ -1,4 +1,4 @@
-var organizationDefs = require('./table-defs/organization-types');
+var organizationDefs = require('./table-defs/organizations/organization-types');
 
 function MakeOrganization({probable}) {
   var organizationTable = probable.createTableFromSizes(organizationDefs);
