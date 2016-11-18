@@ -6,7 +6,17 @@ function MakeOrganization({probable}) {
   return makeOrganization;
 
   function makeOrganization() {
-    var name = organizationTable.roll();
+    var entry = organizationTable.roll();
+    var name;
+    var isAPlace = false;
+
+    if (typeof entry === 'object') {
+      name = entry.name;
+      isAPlace = entry.isAPlace;
+    }
+    else {
+      name = entry;
+    }
 
     var enemies = [];
     for (var i = 0; i < probable.rollDie(3); ++i) {
@@ -15,6 +25,7 @@ function MakeOrganization({probable}) {
 
     return {
       name: name,
+      isAPlace: isAPlace,
       enemies: enemies,
       power: probable.roll(6) + probable.roll(6),
       reach: probable.roll(6) + probable.roll(6),

@@ -1,994 +1,1738 @@
 [
   [
     180,
-    "Aruba"
+    {
+      "name": "Aruba",
+      "isAPlace": true
+    }
   ],
   [
     652230,
-    "Islamic Republic of Afghanistan"
+    {
+      "name": "Islamic Republic of Afghanistan",
+      "isAPlace": true
+    }
   ],
   [
     1246700,
-    "Republic of Angola"
+    {
+      "name": "Republic of Angola",
+      "isAPlace": true
+    }
   ],
   [
     91,
-    "Anguilla"
+    {
+      "name": "Anguilla",
+      "isAPlace": true
+    }
   ],
   [
     1580,
-    "Åland Islands"
+    {
+      "name": "Åland Islands",
+      "isAPlace": true
+    }
   ],
   [
     28748,
-    "Republic of Albania"
+    {
+      "name": "Republic of Albania",
+      "isAPlace": true
+    }
   ],
   [
     468,
-    "Principality of Andorra"
+    {
+      "name": "Principality of Andorra",
+      "isAPlace": true
+    }
   ],
   [
     83600,
-    "United Arab Emirates"
+    {
+      "name": "United Arab Emirates",
+      "isAPlace": true
+    }
   ],
   [
     2780400,
-    "Argentine Republic"
+    {
+      "name": "Argentine Republic",
+      "isAPlace": true
+    }
   ],
   [
     29743,
-    "Republic of Armenia"
+    {
+      "name": "Republic of Armenia",
+      "isAPlace": true
+    }
   ],
   [
     199,
-    "American Samoa"
+    {
+      "name": "American Samoa",
+      "isAPlace": true
+    }
   ],
   [
     14000000,
-    "Antarctica"
+    {
+      "name": "Antarctica",
+      "isAPlace": true
+    }
   ],
   [
     7747,
-    "Territory of the French Southern and Antarctic Lands"
+    {
+      "name": "Territory of the French Southern and Antarctic Lands",
+      "isAPlace": true
+    }
   ],
   [
     442,
-    "Antigua and Barbuda"
+    {
+      "name": "Antigua and Barbuda",
+      "isAPlace": true
+    }
   ],
   [
     7692024,
-    "Commonwealth of Australia"
+    {
+      "name": "Commonwealth of Australia",
+      "isAPlace": true
+    }
   ],
   [
     83871,
-    "Republic of Austria"
+    {
+      "name": "Republic of Austria",
+      "isAPlace": true
+    }
   ],
   [
     86600,
-    "Republic of Azerbaijan"
+    {
+      "name": "Republic of Azerbaijan",
+      "isAPlace": true
+    }
   ],
   [
     27834,
-    "Republic of Burundi"
+    {
+      "name": "Republic of Burundi",
+      "isAPlace": true
+    }
   ],
   [
     30528,
-    "Kingdom of Belgium"
+    {
+      "name": "Kingdom of Belgium",
+      "isAPlace": true
+    }
   ],
   [
     112622,
-    "Republic of Benin"
+    {
+      "name": "Republic of Benin",
+      "isAPlace": true
+    }
   ],
   [
     272967,
-    "Burkina Faso"
+    {
+      "name": "Burkina Faso",
+      "isAPlace": true
+    }
   ],
   [
     147570,
-    "People's Republic of Bangladesh"
+    {
+      "name": "People's Republic of Bangladesh",
+      "isAPlace": true
+    }
   ],
   [
     110879,
-    "Republic of Bulgaria"
+    {
+      "name": "Republic of Bulgaria",
+      "isAPlace": true
+    }
   ],
   [
     765,
-    "Kingdom of Bahrain"
+    {
+      "name": "Kingdom of Bahrain",
+      "isAPlace": true
+    }
   ],
   [
     13943,
-    "Commonwealth of the Bahamas"
+    {
+      "name": "Commonwealth of the Bahamas",
+      "isAPlace": true
+    }
   ],
   [
     51209,
-    "Bosnia and Herzegovina"
+    {
+      "name": "Bosnia and Herzegovina",
+      "isAPlace": true
+    }
   ],
   [
     21,
-    "Collectivity of Saint Barthélemy"
+    {
+      "name": "Collectivity of Saint Barthélemy",
+      "isAPlace": true
+    }
   ],
   [
     207600,
-    "Republic of Belarus"
+    {
+      "name": "Republic of Belarus",
+      "isAPlace": true
+    }
   ],
   [
     22966,
-    "Belize"
+    {
+      "name": "Belize",
+      "isAPlace": true
+    }
   ],
   [
     54,
-    "Bermuda"
+    {
+      "name": "Bermuda",
+      "isAPlace": true
+    }
   ],
   [
     1098581,
-    "Plurinational State of Bolivia"
+    {
+      "name": "Plurinational State of Bolivia",
+      "isAPlace": true
+    }
   ],
   [
     8515767,
-    "Federative Republic of Brazil"
+    {
+      "name": "Federative Republic of Brazil",
+      "isAPlace": true
+    }
   ],
   [
     430,
-    "Barbados"
+    {
+      "name": "Barbados",
+      "isAPlace": true
+    }
   ],
   [
     5765,
-    "Nation of Brunei, Abode of Peace"
+    {
+      "name": "Nation of Brunei, Abode of Peace",
+      "isAPlace": true
+    }
   ],
   [
     38394,
-    "Kingdom of Bhutan"
+    {
+      "name": "Kingdom of Bhutan",
+      "isAPlace": true
+    }
   ],
   [
     49,
-    "Bouvet Island"
+    {
+      "name": "Bouvet Island",
+      "isAPlace": true
+    }
   ],
   [
     582000,
-    "Republic of Botswana"
+    {
+      "name": "Republic of Botswana",
+      "isAPlace": true
+    }
   ],
   [
     622984,
-    "Central African Republic"
+    {
+      "name": "Central African Republic",
+      "isAPlace": true
+    }
   ],
   [
     9984670,
-    "Canada"
+    {
+      "name": "Canada",
+      "isAPlace": true
+    }
   ],
   [
     14,
-    "Territory of the Cocos (Keeling) Islands"
+    {
+      "name": "Territory of the Cocos (Keeling) Islands",
+      "isAPlace": true
+    }
   ],
   [
     41284,
-    "Swiss Confederation"
+    {
+      "name": "Swiss Confederation",
+      "isAPlace": true
+    }
   ],
   [
     756102,
-    "Republic of Chile"
+    {
+      "name": "Republic of Chile",
+      "isAPlace": true
+    }
   ],
   [
     9706961,
-    "People's Republic of China"
+    {
+      "name": "People's Republic of China",
+      "isAPlace": true
+    }
   ],
   [
     322463,
-    "Republic of Côte d'Ivoire"
+    {
+      "name": "Republic of Côte d'Ivoire",
+      "isAPlace": true
+    }
   ],
   [
     475442,
-    "Republic of Cameroon"
+    {
+      "name": "Republic of Cameroon",
+      "isAPlace": true
+    }
   ],
   [
     2344858,
-    "Democratic Republic of the Congo"
+    {
+      "name": "Democratic Republic of the Congo",
+      "isAPlace": true
+    }
   ],
   [
     342000,
-    "Republic of the Congo"
+    {
+      "name": "Republic of the Congo",
+      "isAPlace": true
+    }
   ],
   [
     236,
-    "Cook Islands"
+    {
+      "name": "Cook Islands",
+      "isAPlace": true
+    }
   ],
   [
     1141748,
-    "Republic of Colombia"
+    {
+      "name": "Republic of Colombia",
+      "isAPlace": true
+    }
   ],
   [
     1862,
-    "Union of the Comoros"
+    {
+      "name": "Union of the Comoros",
+      "isAPlace": true
+    }
   ],
   [
     4033,
-    "Republic of Cabo Verde"
+    {
+      "name": "Republic of Cabo Verde",
+      "isAPlace": true
+    }
   ],
   [
     51100,
-    "Republic of Costa Rica"
+    {
+      "name": "Republic of Costa Rica",
+      "isAPlace": true
+    }
   ],
   [
     109884,
-    "Republic of Cuba"
+    {
+      "name": "Republic of Cuba",
+      "isAPlace": true
+    }
   ],
   [
     444,
-    "Country of Curaçao"
+    {
+      "name": "Country of Curaçao",
+      "isAPlace": true
+    }
   ],
   [
     135,
-    "Territory of Christmas Island"
+    {
+      "name": "Territory of Christmas Island",
+      "isAPlace": true
+    }
   ],
   [
     264,
-    "Cayman Islands"
+    {
+      "name": "Cayman Islands",
+      "isAPlace": true
+    }
   ],
   [
     9251,
-    "Republic of Cyprus"
+    {
+      "name": "Republic of Cyprus",
+      "isAPlace": true
+    }
   ],
   [
     78865,
-    "Czech Republic"
+    {
+      "name": "Czech Republic",
+      "isAPlace": true
+    }
   ],
   [
     357114,
-    "Federal Republic of Germany"
+    {
+      "name": "Federal Republic of Germany",
+      "isAPlace": true
+    }
   ],
   [
     23200,
-    "Republic of Djibouti"
+    {
+      "name": "Republic of Djibouti",
+      "isAPlace": true
+    }
   ],
   [
     751,
-    "Commonwealth of Dominica"
+    {
+      "name": "Commonwealth of Dominica",
+      "isAPlace": true
+    }
   ],
   [
     43094,
-    "Kingdom of Denmark"
+    {
+      "name": "Kingdom of Denmark",
+      "isAPlace": true
+    }
   ],
   [
     48671,
-    "Dominican Republic"
+    {
+      "name": "Dominican Republic",
+      "isAPlace": true
+    }
   ],
   [
     2381741,
-    "People's Democratic Republic of Algeria"
+    {
+      "name": "People's Democratic Republic of Algeria",
+      "isAPlace": true
+    }
   ],
   [
     276841,
-    "Republic of Ecuador"
+    {
+      "name": "Republic of Ecuador",
+      "isAPlace": true
+    }
   ],
   [
     1002450,
-    "Arab Republic of Egypt"
+    {
+      "name": "Arab Republic of Egypt",
+      "isAPlace": true
+    }
   ],
   [
     117600,
-    "State of Eritrea"
+    {
+      "name": "State of Eritrea",
+      "isAPlace": true
+    }
   ],
   [
     266000,
-    "Sahrawi Arab Democratic Republic"
+    {
+      "name": "Sahrawi Arab Democratic Republic",
+      "isAPlace": true
+    }
   ],
   [
     505992,
-    "Kingdom of Spain"
+    {
+      "name": "Kingdom of Spain",
+      "isAPlace": true
+    }
   ],
   [
     45227,
-    "Republic of Estonia"
+    {
+      "name": "Republic of Estonia",
+      "isAPlace": true
+    }
   ],
   [
     1104300,
-    "Federal Democratic Republic of Ethiopia"
+    {
+      "name": "Federal Democratic Republic of Ethiopia",
+      "isAPlace": true
+    }
   ],
   [
     338424,
-    "Republic of Finland"
+    {
+      "name": "Republic of Finland",
+      "isAPlace": true
+    }
   ],
   [
     18272,
-    "Republic of Fiji"
+    {
+      "name": "Republic of Fiji",
+      "isAPlace": true
+    }
   ],
   [
     12173,
-    "Falkland Islands"
+    {
+      "name": "Falkland Islands",
+      "isAPlace": true
+    }
   ],
   [
     551695,
-    "French Republic"
+    {
+      "name": "French Republic",
+      "isAPlace": true
+    }
   ],
   [
     1393,
-    "Faroe Islands"
+    {
+      "name": "Faroe Islands",
+      "isAPlace": true
+    }
   ],
   [
     702,
-    "Federated States of Micronesia"
+    {
+      "name": "Federated States of Micronesia",
+      "isAPlace": true
+    }
   ],
   [
     267668,
-    "Gabonese Republic"
+    {
+      "name": "Gabonese Republic",
+      "isAPlace": true
+    }
   ],
   [
     242900,
-    "United Kingdom of Great Britain and Northern Ireland"
+    {
+      "name": "United Kingdom of Great Britain and Northern Ireland",
+      "isAPlace": true
+    }
   ],
   [
     69700,
-    "Georgia"
+    {
+      "name": "Georgia",
+      "isAPlace": true
+    }
   ],
   [
     78,
-    "Bailiwick of Guernsey"
+    {
+      "name": "Bailiwick of Guernsey",
+      "isAPlace": true
+    }
   ],
   [
     238533,
-    "Republic of Ghana"
+    {
+      "name": "Republic of Ghana",
+      "isAPlace": true
+    }
   ],
   [
     6,
-    "Gibraltar"
+    {
+      "name": "Gibraltar",
+      "isAPlace": true
+    }
   ],
   [
     245857,
-    "Republic of Guinea"
+    {
+      "name": "Republic of Guinea",
+      "isAPlace": true
+    }
   ],
   [
     1628,
-    "Guadeloupe"
+    {
+      "name": "Guadeloupe",
+      "isAPlace": true
+    }
   ],
   [
     10689,
-    "Republic of the Gambia"
+    {
+      "name": "Republic of the Gambia",
+      "isAPlace": true
+    }
   ],
   [
     36125,
-    "Republic of Guinea-Bissau"
+    {
+      "name": "Republic of Guinea-Bissau",
+      "isAPlace": true
+    }
   ],
   [
     28051,
-    "Republic of Equatorial Guinea"
+    {
+      "name": "Republic of Equatorial Guinea",
+      "isAPlace": true
+    }
   ],
   [
     131990,
-    "Hellenic Republic"
+    {
+      "name": "Hellenic Republic",
+      "isAPlace": true
+    }
   ],
   [
     344,
-    "Grenada"
+    {
+      "name": "Grenada",
+      "isAPlace": true
+    }
   ],
   [
     2166086,
-    "Greenland"
+    {
+      "name": "Greenland",
+      "isAPlace": true
+    }
   ],
   [
     108889,
-    "Republic of Guatemala"
+    {
+      "name": "Republic of Guatemala",
+      "isAPlace": true
+    }
   ],
   [
     83534,
-    "Guiana"
+    {
+      "name": "Guiana",
+      "isAPlace": true
+    }
   ],
   [
     549,
-    "Guam"
+    {
+      "name": "Guam",
+      "isAPlace": true
+    }
   ],
   [
     214969,
-    "Co-operative Republic of Guyana"
+    {
+      "name": "Co-operative Republic of Guyana",
+      "isAPlace": true
+    }
   ],
   [
     1104,
-    "Hong Kong Special Administrative Region of the People's Republic of China"
+    {
+      "name": "Hong Kong Special Administrative Region of the People's Republic of China",
+      "isAPlace": true
+    }
   ],
   [
     412,
-    "Heard Island and McDonald Islands"
+    {
+      "name": "Heard Island and McDonald Islands",
+      "isAPlace": true
+    }
   ],
   [
     112492,
-    "Republic of Honduras"
+    {
+      "name": "Republic of Honduras",
+      "isAPlace": true
+    }
   ],
   [
     56594,
-    "Republic of Croatia"
+    {
+      "name": "Republic of Croatia",
+      "isAPlace": true
+    }
   ],
   [
     27750,
-    "Republic of Haiti"
+    {
+      "name": "Republic of Haiti",
+      "isAPlace": true
+    }
   ],
   [
     93028,
-    "Hungary"
+    {
+      "name": "Hungary",
+      "isAPlace": true
+    }
   ],
   [
     1904569,
-    "Republic of Indonesia"
+    {
+      "name": "Republic of Indonesia",
+      "isAPlace": true
+    }
   ],
   [
     572,
-    "Isle of Man"
+    {
+      "name": "Isle of Man",
+      "isAPlace": true
+    }
   ],
   [
     3287590,
-    "Republic of India"
+    {
+      "name": "Republic of India",
+      "isAPlace": true
+    }
   ],
   [
     60,
-    "British Indian Ocean Territory"
+    {
+      "name": "British Indian Ocean Territory",
+      "isAPlace": true
+    }
   ],
   [
     70273,
-    "Republic of Ireland"
+    {
+      "name": "Republic of Ireland",
+      "isAPlace": true
+    }
   ],
   [
     1648195,
-    "Islamic Republic of Iran"
+    {
+      "name": "Islamic Republic of Iran",
+      "isAPlace": true
+    }
   ],
   [
     438317,
-    "Republic of Iraq"
+    {
+      "name": "Republic of Iraq",
+      "isAPlace": true
+    }
   ],
   [
     103000,
-    "Iceland"
+    {
+      "name": "Iceland",
+      "isAPlace": true
+    }
   ],
   [
     20770,
-    "State of Israel"
+    {
+      "name": "State of Israel",
+      "isAPlace": true
+    }
   ],
   [
     301336,
-    "Italian Republic"
+    {
+      "name": "Italian Republic",
+      "isAPlace": true
+    }
   ],
   [
     10991,
-    "Jamaica"
+    {
+      "name": "Jamaica",
+      "isAPlace": true
+    }
   ],
   [
     116,
-    "Bailiwick of Jersey"
+    {
+      "name": "Bailiwick of Jersey",
+      "isAPlace": true
+    }
   ],
   [
     89342,
-    "Hashemite Kingdom of Jordan"
+    {
+      "name": "Hashemite Kingdom of Jordan",
+      "isAPlace": true
+    }
   ],
   [
     377930,
-    "Japan"
+    {
+      "name": "Japan",
+      "isAPlace": true
+    }
   ],
   [
     2724900,
-    "Republic of Kazakhstan"
+    {
+      "name": "Republic of Kazakhstan",
+      "isAPlace": true
+    }
   ],
   [
     580367,
-    "Republic of Kenya"
+    {
+      "name": "Republic of Kenya",
+      "isAPlace": true
+    }
   ],
   [
     199951,
-    "Kyrgyz Republic"
+    {
+      "name": "Kyrgyz Republic",
+      "isAPlace": true
+    }
   ],
   [
     181035,
-    "Kingdom of Cambodia"
+    {
+      "name": "Kingdom of Cambodia",
+      "isAPlace": true
+    }
   ],
   [
     811,
-    "Independent and Sovereign Republic of Kiribati"
+    {
+      "name": "Independent and Sovereign Republic of Kiribati",
+      "isAPlace": true
+    }
   ],
   [
     261,
-    "Federation of Saint Christopher and Nevisa"
+    {
+      "name": "Federation of Saint Christopher and Nevisa",
+      "isAPlace": true
+    }
   ],
   [
     100210,
-    "Republic of Korea"
+    {
+      "name": "Republic of Korea",
+      "isAPlace": true
+    }
   ],
   [
     10908,
-    "Republic of Kosovo"
+    {
+      "name": "Republic of Kosovo",
+      "isAPlace": true
+    }
   ],
   [
     17818,
-    "State of Kuwait"
+    {
+      "name": "State of Kuwait",
+      "isAPlace": true
+    }
   ],
   [
     236800,
-    "Lao People's Democratic Republic"
+    {
+      "name": "Lao People's Democratic Republic",
+      "isAPlace": true
+    }
   ],
   [
     10452,
-    "Lebanese Republic"
+    {
+      "name": "Lebanese Republic",
+      "isAPlace": true
+    }
   ],
   [
     111369,
-    "Republic of Liberia"
+    {
+      "name": "Republic of Liberia",
+      "isAPlace": true
+    }
   ],
   [
     1759540,
-    "State of Libya"
+    {
+      "name": "State of Libya",
+      "isAPlace": true
+    }
   ],
   [
     616,
-    "Saint Lucia"
+    {
+      "name": "Saint Lucia",
+      "isAPlace": true
+    }
   ],
   [
     160,
-    "Principality of Liechtenstein"
+    {
+      "name": "Principality of Liechtenstein",
+      "isAPlace": true
+    }
   ],
   [
     65610,
-    "Democratic Socialist Republic of Sri Lanka"
+    {
+      "name": "Democratic Socialist Republic of Sri Lanka",
+      "isAPlace": true
+    }
   ],
   [
     30355,
-    "Kingdom of Lesotho"
+    {
+      "name": "Kingdom of Lesotho",
+      "isAPlace": true
+    }
   ],
   [
     65300,
-    "Republic of Lithuania"
+    {
+      "name": "Republic of Lithuania",
+      "isAPlace": true
+    }
   ],
   [
     2586,
-    "Grand Duchy of Luxembourg"
+    {
+      "name": "Grand Duchy of Luxembourg",
+      "isAPlace": true
+    }
   ],
   [
     64559,
-    "Republic of Latvia"
+    {
+      "name": "Republic of Latvia",
+      "isAPlace": true
+    }
   ],
   [
     30,
-    "Macao Special Administrative Region of the People's Republic of China"
+    {
+      "name": "Macao Special Administrative Region of the People's Republic of China",
+      "isAPlace": true
+    }
   ],
   [
     53,
-    "Saint Martin"
+    {
+      "name": "Saint Martin",
+      "isAPlace": true
+    }
   ],
   [
     446550,
-    "Kingdom of Morocco"
+    {
+      "name": "Kingdom of Morocco",
+      "isAPlace": true
+    }
   ],
   [
     2.02,
-    "Principality of Monaco"
+    {
+      "name": "Principality of Monaco",
+      "isAPlace": true
+    }
   ],
   [
     33846,
-    "Republic of Moldova"
+    {
+      "name": "Republic of Moldova",
+      "isAPlace": true
+    }
   ],
   [
     587041,
-    "Republic of Madagascar"
+    {
+      "name": "Republic of Madagascar",
+      "isAPlace": true
+    }
   ],
   [
     300,
-    "Republic of the Maldives"
+    {
+      "name": "Republic of the Maldives",
+      "isAPlace": true
+    }
   ],
   [
     1964375,
-    "United Mexican States"
+    {
+      "name": "United Mexican States",
+      "isAPlace": true
+    }
   ],
   [
     181,
-    "Republic of the Marshall Islands"
+    {
+      "name": "Republic of the Marshall Islands",
+      "isAPlace": true
+    }
   ],
   [
     25713,
-    "Republic of Macedonia"
+    {
+      "name": "Republic of Macedonia",
+      "isAPlace": true
+    }
   ],
   [
     1240192,
-    "Republic of Mali"
+    {
+      "name": "Republic of Mali",
+      "isAPlace": true
+    }
   ],
   [
     316,
-    "Republic of Malta"
+    {
+      "name": "Republic of Malta",
+      "isAPlace": true
+    }
   ],
   [
     676578,
-    "Republic of the Union of Myanmar"
+    {
+      "name": "Republic of the Union of Myanmar",
+      "isAPlace": true
+    }
   ],
   [
     13812,
-    "Montenegro"
+    {
+      "name": "Montenegro",
+      "isAPlace": true
+    }
   ],
   [
     1564110,
-    "Mongolia"
+    {
+      "name": "Mongolia",
+      "isAPlace": true
+    }
   ],
   [
     464,
-    "Commonwealth of the Northern Mariana Islands"
+    {
+      "name": "Commonwealth of the Northern Mariana Islands",
+      "isAPlace": true
+    }
   ],
   [
     801590,
-    "Republic of Mozambique"
+    {
+      "name": "Republic of Mozambique",
+      "isAPlace": true
+    }
   ],
   [
     1030700,
-    "Islamic Republic of Mauritania"
+    {
+      "name": "Islamic Republic of Mauritania",
+      "isAPlace": true
+    }
   ],
   [
     102,
-    "Montserrat"
+    {
+      "name": "Montserrat",
+      "isAPlace": true
+    }
   ],
   [
     1128,
-    "Martinique"
+    {
+      "name": "Martinique",
+      "isAPlace": true
+    }
   ],
   [
     2040,
-    "Republic of Mauritius"
+    {
+      "name": "Republic of Mauritius",
+      "isAPlace": true
+    }
   ],
   [
     118484,
-    "Republic of Malawi"
+    {
+      "name": "Republic of Malawi",
+      "isAPlace": true
+    }
   ],
   [
     330803,
-    "Malaysia"
+    {
+      "name": "Malaysia",
+      "isAPlace": true
+    }
   ],
   [
     374,
-    "Department of Mayotte"
+    {
+      "name": "Department of Mayotte",
+      "isAPlace": true
+    }
   ],
   [
     825615,
-    "Republic of Namibia"
+    {
+      "name": "Republic of Namibia",
+      "isAPlace": true
+    }
   ],
   [
     18575,
-    "New Caledonia"
+    {
+      "name": "New Caledonia",
+      "isAPlace": true
+    }
   ],
   [
     1267000,
-    "Republic of Niger"
+    {
+      "name": "Republic of Niger",
+      "isAPlace": true
+    }
   ],
   [
     36,
-    "Territory of Norfolk Island"
+    {
+      "name": "Territory of Norfolk Island",
+      "isAPlace": true
+    }
   ],
   [
     923768,
-    "Federal Republic of Nigeria"
+    {
+      "name": "Federal Republic of Nigeria",
+      "isAPlace": true
+    }
   ],
   [
     130373,
-    "Republic of Nicaragua"
+    {
+      "name": "Republic of Nicaragua",
+      "isAPlace": true
+    }
   ],
   [
     260,
-    "Niue"
+    {
+      "name": "Niue",
+      "isAPlace": true
+    }
   ],
   [
     41850,
-    "Netherlands"
+    {
+      "name": "Netherlands",
+      "isAPlace": true
+    }
   ],
   [
     323802,
-    "Kingdom of Norway"
+    {
+      "name": "Kingdom of Norway",
+      "isAPlace": true
+    }
   ],
   [
     147181,
-    "Federal Democratic Republic of Nepal"
+    {
+      "name": "Federal Democratic Republic of Nepal",
+      "isAPlace": true
+    }
   ],
   [
     21,
-    "Republic of Nauru"
+    {
+      "name": "Republic of Nauru",
+      "isAPlace": true
+    }
   ],
   [
     270467,
-    "New Zealand"
+    {
+      "name": "New Zealand",
+      "isAPlace": true
+    }
   ],
   [
     309500,
-    "Sultanate of Oman"
+    {
+      "name": "Sultanate of Oman",
+      "isAPlace": true
+    }
   ],
   [
     881912,
-    "Islamic Republic of Pakistan"
+    {
+      "name": "Islamic Republic of Pakistan",
+      "isAPlace": true
+    }
   ],
   [
     75417,
-    "Republic of Panama"
+    {
+      "name": "Republic of Panama",
+      "isAPlace": true
+    }
   ],
   [
     47,
-    "Pitcairn Group of Islands"
+    {
+      "name": "Pitcairn Group of Islands",
+      "isAPlace": true
+    }
   ],
   [
     1285216,
-    "Republic of Peru"
+    {
+      "name": "Republic of Peru",
+      "isAPlace": true
+    }
   ],
   [
     342353,
-    "Republic of the Philippines"
+    {
+      "name": "Republic of the Philippines",
+      "isAPlace": true
+    }
   ],
   [
     459,
-    "Republic of Palau"
+    {
+      "name": "Republic of Palau",
+      "isAPlace": true
+    }
   ],
   [
     462840,
-    "Independent State of Papua New Guinea"
+    {
+      "name": "Independent State of Papua New Guinea",
+      "isAPlace": true
+    }
   ],
   [
     312679,
-    "Republic of Poland"
+    {
+      "name": "Republic of Poland",
+      "isAPlace": true
+    }
   ],
   [
     8870,
-    "Commonwealth of Puerto Rico"
+    {
+      "name": "Commonwealth of Puerto Rico",
+      "isAPlace": true
+    }
   ],
   [
     120538,
-    "Democratic People's Republic of Korea"
+    {
+      "name": "Democratic People's Republic of Korea",
+      "isAPlace": true
+    }
   ],
   [
     92090,
-    "Portuguese Republic"
+    {
+      "name": "Portuguese Republic",
+      "isAPlace": true
+    }
   ],
   [
     406752,
-    "Republic of Paraguay"
+    {
+      "name": "Republic of Paraguay",
+      "isAPlace": true
+    }
   ],
   [
     6220,
-    "State of Palestine"
+    {
+      "name": "State of Palestine",
+      "isAPlace": true
+    }
   ],
   [
     4167,
-    "French Polynesia"
+    {
+      "name": "French Polynesia",
+      "isAPlace": true
+    }
   ],
   [
     11586,
-    "State of Qatar"
+    {
+      "name": "State of Qatar",
+      "isAPlace": true
+    }
   ],
   [
     2511,
-    "Réunion Island"
+    {
+      "name": "Réunion Island",
+      "isAPlace": true
+    }
   ],
   [
     238391,
-    "Romania"
+    {
+      "name": "Romania",
+      "isAPlace": true
+    }
   ],
   [
     17098242,
-    "Russian Federation"
+    {
+      "name": "Russian Federation",
+      "isAPlace": true
+    }
   ],
   [
     26338,
-    "Republic of Rwanda"
+    {
+      "name": "Republic of Rwanda",
+      "isAPlace": true
+    }
   ],
   [
     2149690,
-    "Kingdom of Saudi Arabia"
+    {
+      "name": "Kingdom of Saudi Arabia",
+      "isAPlace": true
+    }
   ],
   [
     1886068,
-    "Republic of the Sudan"
+    {
+      "name": "Republic of the Sudan",
+      "isAPlace": true
+    }
   ],
   [
     196722,
-    "Republic of Senegal"
+    {
+      "name": "Republic of Senegal",
+      "isAPlace": true
+    }
   ],
   [
     710,
-    "Republic of Singapore"
+    {
+      "name": "Republic of Singapore",
+      "isAPlace": true
+    }
   ],
   [
     3903,
-    "South Georgia and the South Sandwich Islands"
+    {
+      "name": "South Georgia and the South Sandwich Islands",
+      "isAPlace": true
+    }
   ],
   [
     -1,
-    "Svalbard og Jan Mayen"
+    {
+      "name": "Svalbard og Jan Mayen",
+      "isAPlace": true
+    }
   ],
   [
     28896,
-    "Solomon Islands"
+    {
+      "name": "Solomon Islands",
+      "isAPlace": true
+    }
   ],
   [
     71740,
-    "Republic of Sierra Leone"
+    {
+      "name": "Republic of Sierra Leone",
+      "isAPlace": true
+    }
   ],
   [
     21041,
-    "Republic of El Salvador"
+    {
+      "name": "Republic of El Salvador",
+      "isAPlace": true
+    }
   ],
   [
     61,
-    "Most Serene Republic of San Marino"
+    {
+      "name": "Most Serene Republic of San Marino",
+      "isAPlace": true
+    }
   ],
   [
     637657,
-    "Federal Republic of Somalia"
+    {
+      "name": "Federal Republic of Somalia",
+      "isAPlace": true
+    }
   ],
   [
     242,
-    "Saint Pierre and Miquelon"
+    {
+      "name": "Saint Pierre and Miquelon",
+      "isAPlace": true
+    }
   ],
   [
     88361,
-    "Republic of Serbia"
+    {
+      "name": "Republic of Serbia",
+      "isAPlace": true
+    }
   ],
   [
     619745,
-    "Republic of South Sudan"
+    {
+      "name": "Republic of South Sudan",
+      "isAPlace": true
+    }
   ],
   [
     964,
-    "Democratic Republic of São Tomé and Príncipe"
+    {
+      "name": "Democratic Republic of São Tomé and Príncipe",
+      "isAPlace": true
+    }
   ],
   [
     163820,
-    "Republic of Suriname"
+    {
+      "name": "Republic of Suriname",
+      "isAPlace": true
+    }
   ],
   [
     49037,
-    "Slovak Republic"
+    {
+      "name": "Slovak Republic",
+      "isAPlace": true
+    }
   ],
   [
     20273,
-    "Republic of Slovenia"
+    {
+      "name": "Republic of Slovenia",
+      "isAPlace": true
+    }
   ],
   [
     450295,
-    "Kingdom of Sweden"
+    {
+      "name": "Kingdom of Sweden",
+      "isAPlace": true
+    }
   ],
   [
     17364,
-    "Kingdom of Swaziland"
+    {
+      "name": "Kingdom of Swaziland",
+      "isAPlace": true
+    }
   ],
   [
     34,
-    "Sint Maarten"
+    {
+      "name": "Sint Maarten",
+      "isAPlace": true
+    }
   ],
   [
     452,
-    "Republic of Seychelles"
+    {
+      "name": "Republic of Seychelles",
+      "isAPlace": true
+    }
   ],
   [
     185180,
-    "Syrian Arab Republic"
+    {
+      "name": "Syrian Arab Republic",
+      "isAPlace": true
+    }
   ],
   [
     948,
-    "Turks and Caicos Islands"
+    {
+      "name": "Turks and Caicos Islands",
+      "isAPlace": true
+    }
   ],
   [
     1284000,
-    "Republic of Chad"
+    {
+      "name": "Republic of Chad",
+      "isAPlace": true
+    }
   ],
   [
     56785,
-    "Togolese Republic"
+    {
+      "name": "Togolese Republic",
+      "isAPlace": true
+    }
   ],
   [
     513120,
-    "Kingdom of Thailand"
+    {
+      "name": "Kingdom of Thailand",
+      "isAPlace": true
+    }
   ],
   [
     143100,
-    "Republic of Tajikistan"
+    {
+      "name": "Republic of Tajikistan",
+      "isAPlace": true
+    }
   ],
   [
     12,
-    "Tokelau"
+    {
+      "name": "Tokelau",
+      "isAPlace": true
+    }
   ],
   [
     488100,
-    "Turkmenistan"
+    {
+      "name": "Turkmenistan",
+      "isAPlace": true
+    }
   ],
   [
     14874,
-    "Democratic Republic of Timor-Leste"
+    {
+      "name": "Democratic Republic of Timor-Leste",
+      "isAPlace": true
+    }
   ],
   [
     747,
-    "Kingdom of Tonga"
+    {
+      "name": "Kingdom of Tonga",
+      "isAPlace": true
+    }
   ],
   [
     5130,
-    "Republic of Trinidad and Tobago"
+    {
+      "name": "Republic of Trinidad and Tobago",
+      "isAPlace": true
+    }
   ],
   [
     163610,
-    "Tunisian Republic"
+    {
+      "name": "Tunisian Republic",
+      "isAPlace": true
+    }
   ],
   [
     783562,
-    "Republic of Turkey"
+    {
+      "name": "Republic of Turkey",
+      "isAPlace": true
+    }
   ],
   [
     26,
-    "Tuvalu"
+    {
+      "name": "Tuvalu",
+      "isAPlace": true
+    }
   ],
   [
     36193,
-    "Republic of China (Taiwan)"
+    {
+      "name": "Republic of China (Taiwan)",
+      "isAPlace": true
+    }
   ],
   [
     945087,
-    "United Republic of Tanzania"
+    {
+      "name": "United Republic of Tanzania",
+      "isAPlace": true
+    }
   ],
   [
     241550,
-    "Republic of Uganda"
+    {
+      "name": "Republic of Uganda",
+      "isAPlace": true
+    }
   ],
   [
     603500,
-    "Ukraine"
+    {
+      "name": "Ukraine",
+      "isAPlace": true
+    }
   ],
   [
     34.2,
-    "United States Minor Outlying Islands"
+    {
+      "name": "United States Minor Outlying Islands",
+      "isAPlace": true
+    }
   ],
   [
     181034,
-    "Oriental Republic of Uruguay"
+    {
+      "name": "Oriental Republic of Uruguay",
+      "isAPlace": true
+    }
   ],
   [
     9372610,
-    "United States of America"
+    {
+      "name": "United States of America",
+      "isAPlace": true
+    }
   ],
   [
     447400,
-    "Republic of Uzbekistan"
+    {
+      "name": "Republic of Uzbekistan",
+      "isAPlace": true
+    }
   ],
   [
     0.44,
-    "Vatican City State"
+    {
+      "name": "Vatican City State",
+      "isAPlace": true
+    }
   ],
   [
     389,
-    "Saint Vincent and the Grenadines"
+    {
+      "name": "Saint Vincent and the Grenadines",
+      "isAPlace": true
+    }
   ],
   [
     916445,
-    "Bolivarian Republic of Venezuela"
+    {
+      "name": "Bolivarian Republic of Venezuela",
+      "isAPlace": true
+    }
   ],
   [
     151,
-    "Virgin Islands"
+    {
+      "name": "Virgin Islands",
+      "isAPlace": true
+    }
   ],
   [
     347,
-    "Virgin Islands of the United States"
+    {
+      "name": "Virgin Islands of the United States",
+      "isAPlace": true
+    }
   ],
   [
     331212,
-    "Socialist Republic of Vietnam"
+    {
+      "name": "Socialist Republic of Vietnam",
+      "isAPlace": true
+    }
   ],
   [
     12189,
-    "Republic of Vanuatu"
+    {
+      "name": "Republic of Vanuatu",
+      "isAPlace": true
+    }
   ],
   [
     142,
-    "Territory of the Wallis and Futuna Islands"
+    {
+      "name": "Territory of the Wallis and Futuna Islands",
+      "isAPlace": true
+    }
   ],
   [
     2842,
-    "Independent State of Samoa"
+    {
+      "name": "Independent State of Samoa",
+      "isAPlace": true
+    }
   ],
   [
     527968,
-    "Republic of Yemen"
+    {
+      "name": "Republic of Yemen",
+      "isAPlace": true
+    }
   ],
   [
     1221037,
-    "Republic of South Africa"
+    {
+      "name": "Republic of South Africa",
+      "isAPlace": true
+    }
   ],
   [
     752612,
-    "Republic of Zambia"
+    {
+      "name": "Republic of Zambia",
+      "isAPlace": true
+    }
   ],
   [
     390757,
-    "Republic of Zimbabwe"
+    {
+      "name": "Republic of Zimbabwe",
+      "isAPlace": true
+    }
   ]
 ]
