@@ -79,7 +79,10 @@ module.exports = [
   [1, 'traboule'],
   [1, 'priest hole'],
   [1, 'nuclear base'],
-  [3, 'factory']
+  [3, 'factory'],
+
+  [3, 'portal'],
+  [2, 'gate']
 
   //   // 'government'
   //   [

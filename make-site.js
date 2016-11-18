@@ -1,50 +1,91 @@
 var siteDefs = require('./table-defs/sites/site-types');
 var getBoundsForGeoEntity = require('./get-bounds-for-geo-entity');
+var getContainingGeoEntity = require('./get-containing-geo-entity');
 var callNextTick = require('call-next-tick');
-var sb = require('standard-bail')();
+// var sb = require('standard-bail')();
+var curry = require('lodash.curry');
+var waterfall = require('async-waterfall');
+
+var maxGeoBounds = {
+  southwest: {
+    lat: -90,
+    lng: -180
+  },
+  northeast: {
+    lat: 90,
+    lng: 180
+  }
+};
 
 function MakeSite({probable}) {
   var siteTable = probable.createTableFromSizes(siteDefs);
 
   return makeSite;
 
-  function makeSite({builder}, done) {
+  function makeSite({builder}, siteDone) {
     var name = siteTable.roll();
-
-    // var enemies = [];
-    // for (var i = 0; i < probable.rollDie(3); ++i) {
-    //   enemies.push(siteTable.roll());
-    // }
+    var location;
+    var containingGeoEntity;
     var history = [
       {
-        event: 'built',
+        event: 'built', // TODO: Discovered?
         actor: builder
       }
     ];
 
+    // makeLocationDetails({builder: builder}, sb(passSite, done));
     if (builder.isAPlace) {
-      getBoundsForGeoEntity(builder.name, sb(pickLocationInBounds, done));
+      containingGeoEntity = builder.name;
+      waterfall(
+        [
+          curry(getBoundsForGeoEntity)(builder.name),
+          pickLocationInGeoEntity
+        ],
+        passSite
+      );
     }
     else {
-      // TODO: Pick random geocode.
-      callNextTick(passSite);
+      location = pickLocationInBounds(maxGeoBounds);
+      waterfall(
+        [
+          curry(getContainingGeoEntity)(location),
+          saveContainingGeoEntity
+        ],
+        passSite
+      );
     }
 
-    function pickLocationInBounds(bounds) {
-      console.log(bounds);
-      // TODO: Pick from within bounds.
-      passSite();
+    // TODO: Physical details?
+
+    function pickLocationInGeoEntity(bounds, done) {
+      location = pickLocationInBounds(bounds);
+      callNextTick(done);
     }
 
-    // TODO: Location, history steps. Physical details?
+    function saveContainingGeoEntity(entity, done) {
+      containingGeoEntity = entity;
+      callNextTick(done);
+    }
 
     function passSite() {
       var site = {
         name: name,
+        location: location,
+        containingGeoEntity: containingGeoEntity,
         history: history
       };
-      done(null, site);
+      siteDone(null, site);
     }
+  }
+
+  function pickLocationInBounds(bounds) {
+    console.log('bounds', bounds);
+    var xRange = (bounds.northeast.lng - bounds.southwest.lng) * 100;
+    var yRange = (bounds.northeast.lat - bounds.southwest.lat) * 100;
+    return {
+      lng: bounds.southwest.lng + probable.roll(xRange)/100,
+      lat: bounds.southwest.lat + (probable.roll(yRange/2) + probable.roll(yRange/2))/100
+    };
   }
 }
 

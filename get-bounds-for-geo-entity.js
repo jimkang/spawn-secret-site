@@ -3,15 +3,16 @@ var request = require('request');
 var sb = require('standard-bail')();
 
 function getBoundsForGeoEntity(entityName, done) {
-  var apiURL = `https://maps.googleapis.com/maps/api/geocode/json?address=${entityName}&key=${config.googleMapsKey}`;
+  var cleaned = cleanName(entityName);
+  var apiURL = `https://maps.googleapis.com/maps/api/geocode/json?address=${cleaned}&key=${config.googleMapsKey}`;
   var reqOpts = {
     method: 'GET',
     url: apiURL,
     json: true
   };
-  request(reqOpts, sb(pickWithinBounds, done));
+  request(reqOpts, sb(pickBounds, done));
 
-  function pickWithinBounds(res, body) {
+  function pickBounds(res, body) {
     if (body.results.length < 1) {
       done(new Error('Could not find ' + entityName));
     }
@@ -19,6 +20,12 @@ function getBoundsForGeoEntity(entityName, done) {
       done(null, body.results[0].geometry.bounds);
     }
   }
+}
+
+function cleanName(name) {
+  return name
+    .replace('in the depths of ', '')
+    .replace('a city in ', '');
 }
 
 module.exports = getBoundsForGeoEntity;

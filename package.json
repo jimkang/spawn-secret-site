@@ -22,8 +22,10 @@
     "tape": "^4.6.0"
   },
   "dependencies": {
+    "async-waterfall": "^0.1.5",
     "call-next-tick": "^1.1.2",
     "lodash.compact": "^3.0.1",
+    "lodash.curry": "^4.1.1",
     "lodash.flatten": "^4.4.0",
     "lodash.pluck": "^3.1.2",
     "lodash.values": "^4.3.0",
@@ -31,6 +33,7 @@
     "request": "^2.78.0",
     "seedrandom": "^2.4.2",
     "standard-bail": "^2.0.1",
+    "walk-machine": "^1.0.1",
     "wordnok": "^3.2.0"
   }
 }
