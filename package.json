@@ -28,7 +28,9 @@
     "lodash.pluck": "^3.1.2",
     "lodash.values": "^4.3.0",
     "probable": "^2.1.0",
+    "request": "^2.78.0",
     "seedrandom": "^2.4.2",
+    "standard-bail": "^2.0.1",
     "wordnok": "^3.2.0"
   }
 }

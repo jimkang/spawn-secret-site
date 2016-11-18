@@ -18,9 +18,13 @@ var makeOrganization = MakeOrganization({probable: probable});
 var makeSite = MakeSite({probable: probable});
 
 var organization = makeOrganization();
-var site = makeSite({
-  builder: organization
-});
+makeSite({builder: organization}, logSite);
 
-console.log(JSON.stringify(site, null, '  '));
-
+function logSite(error, site) {
+  if (error) {
+    console.error(error);
+  }
+  else {
+    console.log(JSON.stringify(site, null, '  '));
+  }
+}
