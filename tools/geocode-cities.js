@@ -52,13 +52,6 @@ function geocodeBatch(cities, enc, done) {
   }
 }
 
-// function unbatch(batch, enc, done) {
-//   for (var i = 0; i < batch.length; ++i) {
-//     this.push(batch[i]);
-//   }
-//   callNextTick(done);
-// }
-
 function getLocationQueryString(city) {
   return 'location=' + city;
 }

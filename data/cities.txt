@@ -43171,7 +43171,7 @@ Radolfzell, Germany
 Konstanz, Germany
 Rastatt, Germany
 Rulzheim, Germany
-SchwÃ¤bisch Hall, Germany
+Schwäbisch Hall, Germany
 Gaildorf, Germany
 Giengen an der Brenz, Germany
 Lauchheim, Germany
@@ -43556,7 +43556,7 @@ Wiernsheim, Germany
 Mittelstenweiler, Germany
 Nagold, Germany
 Leonberg, Germany
-SchwÃ¤bisch Gmünd, Germany
+Schwäbisch Gmünd, Germany
 Hochdorf, Germany
 Ingoldingen, Germany
 Mutlangen, Germany
@@ -50620,7 +50620,7 @@ Storvreta, Sweden
 Molnbo, Sweden
 Rimbo, Sweden
 Djurhamn, Sweden
-GrÃ¤nna, Sweden
+Gränna, Sweden
 Trollhattan, Sweden
 Uddevalla, Sweden
 Nodinge-Nol, Sweden
@@ -50642,7 +50642,7 @@ Aled, Sweden
 Eskilstuna, Sweden
 Oskarstrom, Sweden
 Ã–rebro, Sweden
-SÃ¶dertÃ¤lje, Sweden
+SÃ¶dertälje, Sweden
 Nacka, Sweden
 Arloev, Sweden
 Enkoping, Sweden
@@ -50692,7 +50692,7 @@ Hollviken, Sweden
 Borgstena, Sweden
 Varnamo, Sweden
 Bergsjoe, Sweden
-VÃ¤sterÃ¥s, Sweden
+VästerÃ¥s, Sweden
 SÃ¶lvesborg, Sweden
 Hultafors, Sweden
 Reso, Sweden
@@ -50714,13 +50714,13 @@ Hallevadsholm, Sweden
 Stroemstad, Sweden
 Hedekas, Sweden
 Munkedal, Sweden
-KungÃ¤lv, Sweden
+Kungälv, Sweden
 Falkenberg, Sweden
 Gammelstad, Sweden
 LuleÃ¥, Sweden
 Ã–stersund, Sweden
 Gnesta, Sweden
-GÃ¤vle, Sweden
+Gävle, Sweden
 Djursholm, Sweden
 Tullinge, Sweden
 Spanga, Sweden
@@ -50745,7 +50745,7 @@ Graddo, Sweden
 Hallingsjo, Sweden
 Bjuv, Sweden
 Ludvika, Sweden
-BorlÃ¤nge, Sweden
+Borlänge, Sweden
 Sala, Sweden
 Strangnas, Sweden
 Stenhamra, Sweden
@@ -50903,7 +50903,7 @@ Tingsryd, Sweden
 Simrishamn, Sweden
 Klagstorp, Sweden
 Morarp, Sweden
-HÃ¤ssleholm, Sweden
+Hässleholm, Sweden
 Smedstorp, Sweden
 Vinslov, Sweden
 Klippan, Sweden
@@ -50995,7 +50995,7 @@ Segersta, Sweden
 Billdal, Sweden
 Vellinge, Sweden
 Balsta, Sweden
-HÃ¤rnÃ¶sand, Sweden
+HärnÃ¶sand, Sweden
 Veinge, Sweden
 Ockelbo, Sweden
 Torsaker, Sweden
@@ -51089,7 +51089,7 @@ Genevad, Sweden
 Munka-Ljungby, Sweden
 Grillby, Sweden
 Paskallavik, Sweden
-VÃ¤stervik, Sweden
+Västervik, Sweden
 Blentarp, Sweden
 Borrby, Sweden
 Brosarp, Sweden
@@ -51129,7 +51129,7 @@ Fellingsbro, Sweden
 Borensberg, Sweden
 Asensbruk, Sweden
 Vinberg, Sweden
-GÃ¤llivare, Sweden
+Gällivare, Sweden
 Rosersberg, Sweden
 Valskog, Sweden
 Nashulta, Sweden
@@ -67180,7 +67180,7 @@ Copenhagen, Denmark
 Frederiksberg, Denmark
 Bronshoj, Denmark
 Albertslund, Denmark
-HillerÃ¸d, Denmark
+HillerRød, Denmark
 FrederiksvÃ¦rk, Denmark
 Vasby, Denmark
 Elsinore, Denmark
@@ -67188,7 +67188,7 @@ Roskilde, Denmark
 Brande, Denmark
 Vejle, Denmark
 Viborg, Denmark
-KÃ¸ge, Denmark
+KRøge, Denmark
 Herlev, Denmark
 Aarhus, Denmark
 Randers, Denmark
@@ -67196,21 +67196,21 @@ Uldum, Denmark
 Egtved, Denmark
 Galten, Denmark
 Hammel, Denmark
-HÃ¸rsholm, Denmark
-BirkerÃ¸d, Denmark
+HRørsholm, Denmark
+BirkerRød, Denmark
 Hvidovre, Denmark
 Ganlose, Denmark
 Hedehusene, Denmark
-RÃ¸dovre, Denmark
-IshÃ¸j, Denmark
+RRødovre, Denmark
+IshRøj, Denmark
 Frederikssund, Denmark
 Tarm, Denmark
 Haderslev, Denmark
 Soborg, Denmark
-RÃ¸nne, Denmark
+RRønne, Denmark
 Vordingborg, Denmark
 Fakse, Denmark
-RingkÃ¸bing, Denmark
+RingkRøbing, Denmark
 Assens, Denmark
 Odense, Denmark
 Niva, Denmark
@@ -67220,7 +67220,7 @@ Holstebro, Denmark
 Fensmark, Denmark
 JÃ¦gerspris, Denmark
 Jyllinge, Denmark
-KorsÃ¸r, Denmark
+KorsRør, Denmark
 Naestved, Denmark
 Holbaek, Denmark
 Karup, Denmark
@@ -67237,7 +67237,7 @@ Hjortshoj, Denmark
 Skodstrup, Denmark
 Lystrup, Denmark
 Hinnerup, Denmark
-DragÃ¸r, Denmark
+DragRør, Denmark
 Gentofte, Denmark
 Ronde, Denmark
 VallensbÃ¦k, Denmark
@@ -67248,7 +67248,7 @@ Ballerup, Denmark
 Fredericia, Denmark
 Humlebaek, Denmark
 Nakskov, Denmark
-NÃ¸rre Alslev, Denmark
+NRørre Alslev, Denmark
 Glostrup, Denmark
 Ikast, Denmark
 Malov, Denmark
@@ -67270,7 +67270,7 @@ Kerteminde, Denmark
 Middelfart, Denmark
 Ejby, Denmark
 Arslev, Denmark
-RudkÃ¸bing, Denmark
+RudkRøbing, Denmark
 Svendborg, Denmark
 Tommerup, Denmark
 Silkeborg, Denmark
@@ -67280,7 +67280,7 @@ Aabenraa, Denmark
 Ribe, Denmark
 Christiansfeld, Denmark
 Karlslunde, Denmark
-SÃ¸nderborg, Denmark
+SRønderborg, Denmark
 Augustenborg, Denmark
 Vojens, Denmark
 Skanderborg, Denmark
@@ -67336,9 +67336,9 @@ Tureby, Denmark
 Ruds-Vedby, Denmark
 Olsted, Denmark
 Vejby, Denmark
-HjÃ¸rring, Denmark
+HjRørring, Denmark
 Vadum, Denmark
-BrÃ¸nderslev, Denmark
+BrRønderslev, Denmark
 Frederikshavn, Denmark
 Vra, Denmark
 Sindal, Denmark
@@ -67357,7 +67357,7 @@ Ugerlose, Denmark
 Farevejle, Denmark
 Follenslev, Denmark
 Taastrup, Denmark
-PrÃ¦stÃ¸, Denmark
+PrÃ¦stRø, Denmark
 Lundby Stationsby, Denmark
 Knebel, Denmark
 Havndal, Denmark
@@ -67373,7 +67373,7 @@ Stege, Denmark
 Aalborg, Denmark
 Stovring, Denmark
 Ringe, Denmark
-SakskÃ¸bing, Denmark
+SakskRøbing, Denmark
 VidebÃ¦k, Denmark
 Nykobing Falster, Denmark
 Idestrup, Denmark
@@ -67389,8 +67389,8 @@ Bjerringbro, Denmark
 Vedbaek, Denmark
 Rungsted, Denmark
 Naerum, Denmark
-LÃ¸gstÃ¸r, Denmark
-FarsÃ¸, Denmark
+LRøgstRør, Denmark
+FarsRø, Denmark
 Gistrup, Denmark
 Norresundby, Denmark
 Storvorde, Denmark
@@ -67405,10 +67405,10 @@ Svaneke, Denmark
 Hojby, Denmark
 Herfolge, Denmark
 Lille Skensved, Denmark
-RÃ¸nnede, Denmark
+RRønnede, Denmark
 Vissenbjerg, Denmark
 Svanninge, Denmark
-Ã†rÃ¸skÃ¸bing, Denmark
+Ã†rRøskRøbing, Denmark
 Nyborg, Denmark
 Asnaes, Denmark
 Jelling, Denmark
@@ -67418,11 +67418,11 @@ Askeby, Denmark
 Tappernoje, Denmark
 Maribo, Denmark
 Nysted, Denmark
-StubbekÃ¸bing, Denmark
+StubbekRøbing, Denmark
 Eskilstrup, Denmark
-RÃ¸dby, Denmark
+RRødby, Denmark
 Vemb, Denmark
-SkÃ¸rping, Denmark
+SkRørping, Denmark
 Norager, Denmark
 Lynge, Denmark
 Gadbjerg, Denmark
@@ -67444,7 +67444,7 @@ Skaelskor, Denmark
 Horve, Denmark
 Regstrup, Denmark
 Jyderup, Denmark
-HÃ¸ng, Denmark
+HRøng, Denmark
 Stroby, Denmark
 Store Heddinge, Denmark
 Bjaeverskov, Denmark
@@ -67461,15 +67461,15 @@ Mern, Denmark
 Karrebaeksminde, Denmark
 Bogo By, Denmark
 Kettinge, Denmark
-RÃ¸dekro, Denmark
+RRødekro, Denmark
 Spentrup, Denmark
 Gudbjerg, Denmark
-TÃ¸nder, Denmark
+TRønder, Denmark
 Randbol, Denmark
 Bramming, Denmark
-LÃ¸gumkloster, Denmark
+LRøgumkloster, Denmark
 Varde, Denmark
-Ã˜lgod, Denmark
+Ølgod, Denmark
 Vorbasse, Denmark
 Krusa, Denmark
 Nordborg, Denmark
@@ -67593,7 +67593,7 @@ Egernsund, Denmark
 Blokhus, Denmark
 Ulfborg, Denmark
 Grindsted, Denmark
-GÃ¸rlev, Denmark
+GRørlev, Denmark
 Orsted, Denmark
 Farup, Denmark
 Langa, Denmark
@@ -67772,7 +67772,7 @@ Tikob, Denmark
 No, Denmark
 Hyllinge, Denmark
 Kalvehave, Denmark
-BrÃ¸ndby, Denmark
+BrRøndby, Denmark
 Horslunde, Denmark
 Torrig, Denmark
 Flauenskjold, Denmark
@@ -67832,7 +67832,7 @@ Novo Mesto, Slovenia
 Velika Loka, Slovenia
 Zgornje Hoce, Slovenia
 Prevalje, Slovenia
-Å entjur pri Celju, Slovenia
+Šentjur pri Celju, Slovenia
 RogaÅ¡ka Slatina, Slovenia
 Mozirje, Slovenia
 Mezica, Slovenia
@@ -67863,7 +67863,7 @@ Spodnji Ivanjci, Slovenia
 Hrusica, Slovenia
 Kidricevo, Slovenia
 Komenda, Slovenia
-Å entjernej, Slovenia
+Šentjernej, Slovenia
 Medvode, Slovenia
 KrÅ¡ko, Slovenia
 Dolenjske Toplice, Slovenia
@@ -67889,7 +67889,7 @@ Hotedrsica, Slovenia
 Dornava, Slovenia
 Vojnik, Slovenia
 Ljubecna, Slovenia
-Å kofja Loka, Slovenia
+Škofja Loka, Slovenia
 Zgornje Skofije, Slovenia
 Skofljica, Slovenia
 DivaÄa, Slovenia
@@ -68210,7 +68210,7 @@ Sarpsborg, Norway
 Kongsvinger, Norway
 Asgardstrand, Norway
 Kolbotn, Norway
-LillestrÃ¸m, Norway
+LillestrRøm, Norway
 Horten, Norway
 Lysaker, Norway
 Nesbru, Norway
@@ -68232,13 +68232,13 @@ Fornebu, Norway
 Skien, Norway
 Finnsnes, Norway
 Tomasjorda, Norway
-TromsÃ¸, Norway
+TromsRø, Norway
 Tromsdalen, Norway
 Hovik verk, Norway
 Stabekk, Norway
 Oppegard, Norway
 Arendal, Norway
-GjÃ¸vik, Norway
+GjRøvik, Norway
 Salhus, Norway
 Hol, Norway
 Gjerdrum, Norway
@@ -68274,14 +68274,14 @@ Ski, Norway
 Halden, Norway
 Sandefjord, Norway
 Fredrikstad, Norway
-TÃ¸nsberg, Norway
+TRønsberg, Norway
 Porsgrunn, Norway
 Baerums verk, Norway
 Tertnes, Norway
 Rjukan, Norway
 Holmestrand, Norway
 Lillehammer, Norway
-BodÃ¸, Norway
+BodRø, Norway
 Krakeroy, Norway
 Rolvsoy, Norway
 Saltnes, Norway
@@ -68307,11 +68307,11 @@ Kristiansand, Norway
 Narvik, Norway
 Stathelle, Norway
 Heimdal, Norway
-NÃ¸tterÃ¸y, Norway
+NRøtterRøy, Norway
 Sorum, Norway
 Sorumsand, Norway
 Saupstad, Norway
-Ã˜rsta, Norway
+Ørsta, Norway
 Bones, Norway
 Steinkjer, Norway
 Engalsvik, Norway
@@ -68373,7 +68373,7 @@ Samuelsberg, Norway
 Lyngseidet, Norway
 Moen, Norway
 Gargan, Norway
-VadsÃ¸, Norway
+VadsRø, Norway
 Jakobselv, Norway
 Kirkenes, Norway
 BÃ¥tsfjord, Norway
@@ -68572,7 +68572,7 @@ Hylkje, Norway
 Mysen, Norway
 Florvag, Norway
 Kleppesto, Norway
-SÃ¸gne, Norway
+SRøgne, Norway
 Froland, Norway
 Klofta, Norway
 Straume, Norway
@@ -68692,7 +68692,7 @@ Flateby, Norway
 Roa, Norway
 Finnoy, Norway
 Rost, Norway
-VÃ¦rÃ¸y, Norway
+VÃ¦rRøy, Norway
 Gravdal, Norway
 Kabelvag, Norway
 Henningsvaer, Norway
@@ -68797,10 +68797,10 @@ Selvaer, Norway
 Reipa, Norway
 Vadheim, Norway
 Slattum, Norway
-RisÃ¸r, Norway
+RisRør, Norway
 Bagn, Norway
 Aurdal, Norway
-TjÃ¸me, Norway
+TjRøme, Norway
 Ramnes, Norway
 Beitostolen, Norway
 Krakstad, Norway
@@ -68858,7 +68858,7 @@ Bo, Norway
 Vikesa, Norway
 Vigrestad, Norway
 Bru, Norway
-HavÃ¸ysund, Norway
+HavRøysund, Norway
 Oresvika, Norway
 Masfjorden, Norway
 Reinsvoll, Norway
@@ -68953,7 +68953,7 @@ Tolga, Norway
 Laukvik, Norway
 Tynset, Norway
 Myking, Norway
-AskÃ¸y, Norway
+AskRøy, Norway
 Hovet, Norway
 Kamben, Norway
 Tysse, Norway
@@ -68989,8 +68989,8 @@ Groa, Norway
 Meisingset, Norway
 Sundal, Norway
 Raudsand, Norway
-VardÃ¸, Norway
-BugÃ¸ynes, Norway
+VardRø, Norway
+BugRøynes, Norway
 Rauland, Norway
 Svelgen, Norway
 Vevelstad, Norway
@@ -74187,7 +74187,7 @@ Sonvico, Switzerland
 Udligenswil, Switzerland
 Pfeffikon, Switzerland
 Sigriswil, Switzerland
-DÃ¤rligen, Switzerland
+Därligen, Switzerland
 Buchs, Switzerland
 Muttenz, Switzerland
 Caslano, Switzerland
@@ -74608,7 +74608,7 @@ Twann, Switzerland
 Arzo, Switzerland
 Burchen, Switzerland
 Merishausen, Switzerland
-UrnÃ¤sch, Switzerland
+Urnäsch, Switzerland
 Balterswil, Switzerland
 Menzingen, Switzerland
 Iserables, Switzerland
@@ -74815,10 +74815,10 @@ Osmaniye, Turkey
 Afyonkarahisar, Turkey
 Malatya, Turkey
 Mardin, Turkey
-KahramanmaraÅŸ, Turkey
+Kahramanmaraș, Turkey
 Batman, Turkey
-NevÅŸehir, Turkey
-KÄ±rÅŸehir, Turkey
+Nevșehir, Turkey
+KÄ±rșehir, Turkey
 Amasya, Turkey
 Yalova, Turkey
 BalÄ±kesir, Turkey
@@ -74848,9 +74848,9 @@ Kastamonu, Turkey
 Kecioeren, Turkey
 Demetevleri, Turkey
 Yaman, Turkey
-GümüÅŸhane, Turkey
+Gümüșhane, Turkey
 Bayburt, Turkey
-ArdeÅŸen, Turkey
+Ardeșen, Turkey
 Giresun, Turkey
 Sivas, Turkey
 Aydin, Turkey
@@ -74858,7 +74858,7 @@ Ceyhan, Turkey
 Ada, Turkey
 Kozan, Turkey
 Seyhan, Turkey
-MuÅŸ, Turkey
+Muș, Turkey
 Ardahan, Turkey
 Manavgat, Turkey
 Burdur, Turkey
@@ -74891,7 +74891,7 @@ Pendik, Turkey
 Cine, Turkey
 Selcuk, Turkey
 Umraniye, Turkey
-UÅŸak, Turkey
+Ușak, Turkey
 Banaz, Turkey
 Konak, Turkey
 Nazilli, Turkey
@@ -74984,7 +74984,7 @@ Sile, Turkey
 Unieh, Turkey
 Beykent, Turkey
 Kocatepe, Turkey
-IÅŸÄ±k, Turkey
+IșÄ±k, Turkey
 Yeni, Turkey
 Gunbuldu, Turkey
 Ostim, Turkey
@@ -75060,36 +75060,36 @@ Tatvan, Turkey
 Saglik, Turkey
 Yenibosna, Turkey
 Susurluk, Turkey
-Ä°biÅŸkÅy, Turkey
+Ä°bișkÅy, Turkey
 Halic, Turkey
-PiteÅŸti, Romania
+Pitești, Romania
 Bucharest, Romania
-BacÄƒu, Romania
+Bacău, Romania
 Roman, Romania
-OneÅŸti, Romania
+Onești, Romania
 Piatra NeamÅ£, Romania
 GalaÈ›i, Romania
 ConstanÈ›a, Romania
-CernavodÄƒ, Romania
+Cernavodă, Romania
 Tulcea, Romania
 Navodari, Romania
 Calarasi, Romania
 Sibiu, Romania
-TÃ¢rgu MureÅŸ, Romania
+TÃ¢rgu Mureș, Romania
 RÃ¢mnicu VÃ¢lcea, Romania
 Cluj-Napoca, Romania
 Alba Iulia, Romania
-MediaÅŸ, Romania
+Mediaș, Romania
 Petresti, Romania
-BotoÅŸani, Romania
+Botoșani, Romania
 Craiova, Romania
-BuzÄƒu, Romania
+Buzău, Romania
 Pantelimon, Romania
 Cuza Voda, Romania
 Mihai Bravu, Romania
 Santimbru, Romania
-BraÅŸov, Romania
-TimiÅŸoara, Romania
+Brașov, Romania
+Timișoara, Romania
 Targu Gangulesti, Romania
 Suceava, Romania
 Motru, Romania
@@ -75115,15 +75115,15 @@ Hunedoara, Romania
 Ramnicu Sarat, Romania
 Chiajna, Romania
 Salcioara, Romania
-TÃ¢rgoviÅŸte, Romania
+TÃ¢rgoviște, Romania
 Floresti, Romania
 Alba, Romania
 Pucheni, Romania
-PloieÅŸti, Romania
+Ploiești, Romania
 BistriÅ£a, Romania
 Turda, Romania
 Odorheiu Secuiesc, Romania
-ZalÄƒu, Romania
+Zalău, Romania
 Pascani, Romania
 Buhusi, Romania
 Radauti, Romania
@@ -75134,7 +75134,7 @@ Falticeni, Romania
 Buftea, Romania
 Magurele, Romania
 Dimitrie Cantemir, Romania
-FocÅŸani, Romania
+Focșani, Romania
 Garla-Mare, Romania
 Lehliu-Gara, Romania
 Jibou, Romania
@@ -75143,7 +75143,7 @@ Turnu Ruieni, Romania
 Salatrucel, Romania
 Blaj, Romania
 Reghin, Romania
-PetroÅŸani, Romania
+Petroșani, Romania
 Popesti-Leordeni, Romania
 Tomesti, Romania
 IaÈ™i, Romania
@@ -75166,11 +75166,11 @@ Bethausen, Romania
 Simeria, Romania
 Fogarasch, Romania
 Huedin, Romania
-ReÅŸiÅ£a, Romania
+ReșiÅ£a, Romania
 Cisnadie, Romania
 Carei, Romania
 Satu Mare, Romania
-Curtea de ArgeÅŸ, Romania
+Curtea de Argeș, Romania
 Victoria, Romania
 Husi, Romania
 Orsova, Romania
@@ -75191,7 +75191,7 @@ Sovata, Romania
 Voluntari, Romania
 Otopeni, Romania
 Geoagiu, Romania
-BrÄƒila, Romania
+Brăila, Romania
 Afumati, Romania
 Schela, Romania
 Otelu Rosu, Romania
@@ -75255,7 +75255,7 @@ Gherea, Romania
 Valea Seaca, Romania
 Alunu, Romania
 Lazuri, Romania
-TÃ¢rnÄƒveni, Romania
+TÃ¢rnăveni, Romania
 Moldova Noua, Romania
 Eforie, Romania
 Matasari, Romania
@@ -75290,7 +75290,7 @@ Vedea, Romania
 Livezi, Romania
 Falcau, Romania
 Calan, Romania
-NÄƒdlac, Romania
+Nădlac, Romania
 Bujor, Romania
 Campeni, Romania
 Titesti, Romania
@@ -75387,7 +75387,7 @@ Banesti, Romania
 Brazii de Sus, Romania
 Sutesti, Romania
 Ion Ghica, Romania
-RÃ¢ÅŸnov, Romania
+RÃ¢șnov, Romania
 Grojdibodu, Romania
 Oravita, Romania
 Fagetu, Romania
@@ -78383,9 +78383,9 @@ Jenin, Palestine
 Vilnius, Republic of Lithuania
 Alytus, Republic of Lithuania
 MarijampolÄ—, Republic of Lithuania
-Å ilutÄ—, Republic of Lithuania
+ŠilutÄ—, Republic of Lithuania
 GrigiÅ¡kÄ—s, Republic of Lithuania
-Å iauliai, Republic of Lithuania
+Šiauliai, Republic of Lithuania
 MaÅ¾eikiai, Republic of Lithuania
 PlungÄ—, Republic of Lithuania
 Jurbarkas, Republic of Lithuania
@@ -78480,7 +78480,7 @@ Krizovany nad Dudvahom, Slovakia
 Dolny Stal, Slovakia
 Pata, Slovakia
 Sucha nad Parnou, Slovakia
-Å aÄ¾a, Slovakia
+ŠaÄ¾a, Slovakia
 PieÅ¡Å¥any, Slovakia
 Hlohovec, Slovakia
 NovÃ© Zámky, Slovakia
@@ -78576,13 +78576,13 @@ DolnÃ½ Kubín, Slovakia
 Dunajská Streda, Slovakia
 Samorin, Slovakia
 ÄŒadca, Slovakia
-SvÃ¤tÃ½ Jur, Slovakia
+SvätÃ½ Jur, Slovakia
 Rovinka, Slovakia
 Staskov, Slovakia
 Velicna, Slovakia
 Istebne, Slovakia
 Hencovce, Slovakia
-Banská Å tiavnica, Slovakia
+Banská Štiavnica, Slovakia
 Snina, Slovakia
 Brezno, Slovakia
 SpiÅ¡ská Nová Ves, Slovakia
@@ -78591,9 +78591,9 @@ Stropkov, Slovakia
 Nitrianske Rudno, Slovakia
 Vlkanova, Slovakia
 Dolne Vestenice, Slovakia
-Å urany, Slovakia
+Šurany, Slovakia
 Podbrezova, Slovakia
-Å tÃºrovo, Slovakia
+ŠtÃºrovo, Slovakia
 Ipel'ske Ul'any, Slovakia
 Bela, Slovakia
 KeÅ¾marok, Slovakia
@@ -78843,7 +78843,7 @@ Tyrnaevae, Finland
 Lahti, Finland
 Espoo, Finland
 Ulvila, Finland
-HÃ¤meenlinna, Finland
+Hämeenlinna, Finland
 Tuomikylae, Finland
 Hyvinkaeae, Finland
 Kankaanpaeae, Finland
@@ -78852,26 +78852,26 @@ Nokia, Finland
 Turku, Finland
 Tuusula, Finland
 Vantaa, Finland
-JyvÃ¤skylÃ¤, Finland
+Jyväskylä, Finland
 Marttila, Finland
 Tarvasjoki, Finland
-KÃ¤rsÃ¤mÃ¤ki, Finland
+Kärsämäki, Finland
 Savonlinna, Finland
 Louhi, Finland
-VarpaisjÃ¤rvi, Finland
+Varpaisjärvi, Finland
 Haukipudas, Finland
 Heinola, Finland
 Lohja, Finland
 Orimattila, Finland
 Nastola, Finland
 Vaeaeksy, Finland
-JÃ¤rvenpÃ¤Ã¤, Finland
+Järvenpää, Finland
 Larsmo, Finland
 Nykarleby, Finland
 Jakobstad, Finland
 Lepplax, Finland
 Littoinen, Finland
-BennÃ¤s, Finland
+Bennäs, Finland
 Ruovesi, Finland
 Maenttae, Finland
 Virrat, Finland
@@ -78880,12 +78880,12 @@ Poikelus, Finland
 Halli, Finland
 Vilppula, Finland
 Hollola, Finland
-VillÃ¤hde, Finland
+Villähde, Finland
 Salo, Finland
 Kimito, Finland
 Somero, Finland
 Saunalahti, Finland
-YlÃ¶jÃ¤rvi, Finland
+YlÃ¶järvi, Finland
 Joensuu, Finland
 Vaasa, Finland
 Kajaani, Finland
@@ -78905,7 +78905,7 @@ Kerava, Finland
 Kempele, Finland
 Kolinkylae, Finland
 Sotkuma, Finland
-PolvijÃ¤rvi, Finland
+Polvijärvi, Finland
 Kauttua, Finland
 Sipoo, Finland
 Loviisa, Finland
@@ -78913,7 +78913,7 @@ Tolkis, Finland
 PernÃ¥, Finland
 Porlammi, Finland
 Soederkulla, Finland
-LapinjÃ¤rvi, Finland
+Lapinjärvi, Finland
 Rautjaervi, Finland
 Anjala, Finland
 Kouvola, Finland
@@ -78922,8 +78922,8 @@ Neuvoton, Finland
 Ravijoki, Finland
 Iisalmi, Finland
 Kiuruvesi, Finland
-SonkajÃ¤rvi, Finland
-VieremÃ¤, Finland
+Sonkajärvi, Finland
+Vieremä, Finland
 Lielax, Finland
 Pargas, Finland
 Hoegsara, Finland
@@ -78938,27 +78938,27 @@ Karkku, Finland
 Punkalaidun, Finland
 Pornainen, Finland
 Huuvari, Finland
-MonninkylÃ¤, Finland
-MyrskylÃ¤, Finland
+Monninkylä, Finland
+Myrskylä, Finland
 Hinthaara, Finland
-SÃ¤linkÃ¤Ã¤, Finland
+Sälinkää, Finland
 Kerkkoo, Finland
-MÃ¤ntsÃ¤lÃ¤, Finland
+Mäntsälä, Finland
 Anttila, Finland
 Laukkoski, Finland
 Multia, Finland
-JÃ¤msÃ¤nkoski, Finland
+Jämsänkoski, Finland
 Tikkakoski, Finland
-Ã„Ã¤nekoski, Finland
+Ã„änekoski, Finland
 Muurame, Finland
 Jokela, Finland
 Taipalsaari, Finland
 Joutseno, Finland
-RiihimÃ¤ki, Finland
-JÃ¤Ã¤li, Finland
+Riihimäki, Finland
+Jääli, Finland
 Pattijoki, Finland
 Huittinen, Finland
-KokemÃ¤ki, Finland
+Kokemäki, Finland
 Soeoermarkku, Finland
 Kauvatsa, Finland
 Poitsila, Finland
@@ -78968,7 +78968,7 @@ Pilkanmaa, Finland
 Kauniainen, Finland
 Suolahti, Finland
 Keuruu, Finland
-JÃ¤msÃ¤, Finland
+Jämsä, Finland
 Laukaa, Finland
 Purola, Finland
 Pockar, Finland
@@ -78976,7 +78976,7 @@ Varkaus, Finland
 Harjavalta, Finland
 Naantali, Finland
 Raisio, Finland
-PieksÃ¤mÃ¤ki, Finland
+Pieksämäki, Finland
 Puumala, Finland
 Kemi, Finland
 Tornio, Finland
@@ -78992,7 +78992,7 @@ Alavus, Finland
 Kokkola, Finland
 Terjaerv, Finland
 Kaustinen, Finland
-SeinÃ¤joki, Finland
+Seinäjoki, Finland
 Kokkola, Finland
 Kaakamo, Finland
 Lautiosaari, Finland
@@ -79000,7 +79000,7 @@ Viantie, Finland
 Kuivakangas, Finland
 Karunki, Finland
 Aavasaksa, Finland
-KemijÃ¤rvi, Finland
+Kemijärvi, Finland
 Kolari, Finland
 Kaarina, Finland
 Merimasku, Finland
@@ -79023,8 +79023,8 @@ Akaa, Finland
 Saaksmaki, Finland
 Riihikoski, Finland
 Utti, Finland
-RuotsinpyhtÃ¤Ã¤, Finland
-ElimÃ¤ki, Finland
+Ruotsinpyhtää, Finland
+Elimäki, Finland
 Gammelby, Finland
 Jurva, Finland
 Kaskinen, Finland
@@ -79049,7 +79049,7 @@ Haijaa, Finland
 Roismala, Finland
 Mouhijaervi, Finland
 Kivijaervi, Finland
-KyyjÃ¤rvi, Finland
+Kyyjärvi, Finland
 Kinnula, Finland
 Pihtipudas, Finland
 Karstula, Finland
@@ -79059,7 +79059,7 @@ Latovainio, Finland
 Jokioinen, Finland
 Liljendal, Finland
 Korsholm, Finland
-NÃ¤rpes, Finland
+Närpes, Finland
 Toelby, Finland
 VÃ¶rÃ¥, Finland
 Seinaejoki, Finland
@@ -79067,7 +79067,7 @@ Mantila, Finland
 Lapua, Finland
 Kuortane, Finland
 Tuuri, Finland
-Ã„htÃ¤ri, Finland
+Ã„htäri, Finland
 Muhos, Finland
 Raahe, Finland
 Alavieska, Finland
@@ -79084,7 +79084,7 @@ Lampinsaari, Finland
 Inkeroinen, Finland
 Klaukkala, Finland
 Nuppulinna, Finland
-SiilinjÃ¤rvi, Finland
+Siilinjärvi, Finland
 Uusikaupunki, Finland
 Kalanti, Finland
 Pyhamaa, Finland
@@ -79103,13 +79103,13 @@ Jaervelae, Finland
 Karinkanta, Finland
 Kiiminki, Finland
 Laeyliaeinen, Finland
-NurmijÃ¤rvi, Finland
+Nurmijärvi, Finland
 Sajaniemi, Finland
-HikiÃ¤, Finland
+Hikiä, Finland
 Jyskae, Finland
 Vaajakoski, Finland
 Korplax, Finland
-HaapamÃ¤ki, Finland
+Haapamäki, Finland
 Keminmaa, Finland
 Ylitornio, Finland
 Aapajoki, Finland
@@ -79122,12 +79122,12 @@ Vimpeli, Finland
 Veteli, Finland
 Kauhava, Finland
 Lappajaervi, Finland
-LempÃ¤Ã¤lÃ¤, Finland
+Lempäälä, Finland
 Kangasala, Finland
 Paattinen, Finland
 Mynaemaeki, Finland
 PiikkiÃ¶, Finland
-RymÃ¤ttylÃ¤, Finland
+Rymättylä, Finland
 Vahto, Finland
 Tortinmaeki, Finland
 Masku, Finland
@@ -79138,21 +79138,21 @@ Lieto, Finland
 Kantvik, Finland
 Veikkola, Finland
 Masala, Finland
-YlÃ¤maa, Finland
+Ylämaa, Finland
 Laikko, Finland
-SÃ¤rkisalmi, Finland
-LuumÃ¤ki, Finland
-OripÃ¤Ã¤, Finland
+Särkisalmi, Finland
+Luumäki, Finland
+Oripää, Finland
 Alastaro, Finland
 Karttula, Finland
 Suonenjoki, Finland
-LeppÃ¤virta, Finland
+Leppävirta, Finland
 Lapinlahti, Finland
-HeinÃ¤vesi, Finland
+Heinävesi, Finland
 Punkaharju, Finland
 Maentyharju, Finland
 Kaipola, Finland
-PetÃ¤jÃ¤vesi, Finland
+Petäjävesi, Finland
 Palokka, Finland
 Kyroeskoski, Finland
 Kyynaeroe, Finland
@@ -79179,7 +79179,7 @@ Purmo, Finland
 Forsby, Finland
 KÃ¥llby, Finland
 Oja, Finland
-KÃ¤lviÃ¤, Finland
+Kälviä, Finland
 Ilmajoki, Finland
 Naervijoki, Finland
 Ylihaermae, Finland
@@ -79205,7 +79205,7 @@ Alvettula, Finland
 Sappee, Finland
 Hattula, Finland
 Bergoe, Finland
-KerimÃ¤ki, Finland
+Kerimäki, Finland
 Svarta, Finland
 Nakkila, Finland
 Ihode, Finland
@@ -79248,15 +79248,15 @@ Lieksa, Finland
 Juuka, Finland
 Uimaharju, Finland
 Liperi, Finland
-EkenÃ¤s, Finland
+Ekenäs, Finland
 Simpele, Finland
-NilsiÃ¤, Finland
+Nilsiä, Finland
 Saeviae, Finland
 Lumijoki, Finland
-VikajÃ¤rvi, Finland
+Vikajärvi, Finland
 Kiistala, Finland
 Peraelae, Finland
-SÃ¤Ã¤ksjÃ¤rvi, Finland
+Sääksjärvi, Finland
 Askola, Finland
 KÃ¶yliÃ¶, Finland
 Peipohja, Finland
@@ -79268,17 +79268,17 @@ Fiskars, Finland
 Karjalohja, Finland
 Tenala, Finland
 Viljakkala, Finland
-HÃ¤meenkyrÃ¶, Finland
+HämeenkyrÃ¶, Finland
 Vihti, Finland
 Hoeytiae, Finland
 Vehniae, Finland
 Nuutajaervi, Finland
 Nahkela, Finland
-RajamÃ¤ki, Finland
+Rajamäki, Finland
 Roeykkae, Finland
 Nukari, Finland
 Vihtavuori, Finland
-LeppÃ¤vesi, Finland
+Leppävesi, Finland
 Box, Finland
 Kaerrby, Finland
 Vaesterskog, Finland
@@ -79304,16 +79304,16 @@ Kuohu, Finland
 Evitskog, Finland
 Kuhmalahti, Finland
 Nummi, Finland
-LempÃ¤Ã¤, Finland
+Lempää, Finland
 IngÃ¥, Finland
 Toivala, Finland
-MerijÃ¤rvi, Finland
-HaapajÃ¤rvi, Finland
+Merijärvi, Finland
+Haapajärvi, Finland
 Karhula, Finland
 Pellinki, Finland
 Korppoo, Finland
 Lahela, Finland
-Virolahden KirkonkylÃ¤, Finland
+Virolahden Kirkonkylä, Finland
 Karvia, Finland
 Koskenkorva, Finland
 Valkama, Finland
@@ -79334,7 +79334,7 @@ Majvik, Finland
 Rautjaervi, Finland
 Utsjoki, Finland
 Muonio, Finland
-SodankylÃ¤, Finland
+Sodankylä, Finland
 Mattila, Finland
 Kuusamo, Finland
 Mehtaekylae, Finland
@@ -79347,8 +79347,8 @@ Parkkuu, Finland
 Tarttila, Finland
 Pyhaentae, Finland
 Joroinen, Finland
-PyhÃ¤salmi, Finland
-AlajÃ¤rvi, Finland
+Pyhäsalmi, Finland
+Alajärvi, Finland
 Paalijaervi, Finland
 Luoma-aho, Finland
 Haukkala, Finland
@@ -79360,8 +79360,8 @@ Broby, Finland
 Kuhmo, Finland
 Eno, Finland
 Haermae, Finland
-RÃ¤Ã¤kkylÃ¤, Finland
-PyhtÃ¤Ã¤, Finland
+Rääkkylä, Finland
+Pyhtää, Finland
 Iittala, Finland
 Harviala, Finland
 Janakkala, Finland
@@ -79388,13 +79388,13 @@ Vogar, Iceland
 Hella, Iceland
 Skagastrond, Iceland
 Holmavik, Iceland
-ChiÅŸinÄƒu, Republic of Moldova
+Chișinău, Republic of Moldova
 Tiraspol, Republic of Moldova
 Comrat, Republic of Moldova
 EdineÅ£, Republic of Moldova
 Tighina, Republic of Moldova
 Anenii Noi, Republic of Moldova
-BÄƒlÅ£i, Republic of Moldova
+BălÅ£i, Republic of Moldova
 Orhei, Republic of Moldova
 Ialoveni, Republic of Moldova
 RÃ®bniÅ£a, Republic of Moldova
@@ -79681,13 +79681,13 @@ Schaanwald, Liechtenstein
 Saint Helier, Jersey
 Saint Peter, Jersey
 Saint Johnâ€™s Church, Jersey
-WrocÅ‚aw, Poland
+Wrocław, Poland
 Warsaw, Poland
 Elzbieta, Poland
 Debica, Poland
 Sedziszow Malopolski, Poland
 Dabki, Poland
-SÅ‚awno, Poland
+Sławno, Poland
 Gorlice, Poland
 Wola Rebkowska, Poland
 Cierpice, Poland
@@ -79703,10 +79703,10 @@ Szczecin, Poland
 Kielce, Poland
 Warzachewka Polska, Poland
 Olsztyn, Poland
-EÅ‚k, Poland
+Ełk, Poland
 Golasowice, Poland
 Katowice, Poland
-MysÅ‚owice, Poland
+Mysłowice, Poland
 Zawiercie, Poland
 ChorzÃ³w, Poland
 Gracze, Poland
@@ -79716,7 +79716,7 @@ Radom, Poland
 Raszyn, Poland
 Tarnogrod, Poland
 Rzewnie, Poland
-BiaÅ‚ystok, Poland
+Białystok, Poland
 Otwock, Poland
 Garwolin, Poland
 Borowiec, Poland
@@ -79746,14 +79746,14 @@ Sulejowek, Poland
 Biedrusko, Poland
 Malbork, Poland
 Chelm, Poland
-CheÅ‚m, Poland
+Chełm, Poland
 Kwidzyn, Poland
 Mielec, Poland
 Chorzelow, Poland
 RzeszÃ³w, Poland
 Åšwidnica, Poland
 Przeclaw, Poland
-SuwaÅ‚ki, Poland
+Suwałki, Poland
 Wejherowo, Poland
 Puck, Poland
 Rumia, Poland
@@ -79765,15 +79765,15 @@ Bielawa, Poland
 Polanica-ZdrÃ³j, Poland
 Lebork, Poland
 Stegna, Poland
-NakÅ‚o nad NoteciÄ…, Poland
+Nakło nad NoteciÄ…, Poland
 Koscierzyna, Poland
 Jelenia GÃ³ra, Poland
-OstroÅ‚Ä™ka, Poland
+OstrołÄ™ka, Poland
 Nowa Ruda, Poland
 Libiaz, Poland
-MÅ‚ynary, Poland
+Młynary, Poland
 OÅ›wiÄ™cim, Poland
-JarosÅ‚aw, Poland
+Jarosław, Poland
 Koszalin, Poland
 ZambrÃ³w, Poland
 Lukow, Poland
@@ -79793,7 +79793,7 @@ Stalowa Wola, Poland
 Suchowola, Poland
 Zabrze, Poland
 Opole, Poland
-WaÅ‚brzych, Poland
+Wałbrzych, Poland
 Linowko, Poland
 Witkowo, Poland
 Ranizow, Poland
@@ -79801,7 +79801,7 @@ Nowy Tomysl, Poland
 Kornik, Poland
 Dolice, Poland
 Zawady, Poland
-MiÅ‚omÅ‚yn, Poland
+Miłomłyn, Poland
 Barciany, Poland
 Biskupiec, Poland
 Bytom, Poland
@@ -79816,16 +79816,16 @@ Wysoka Strzyzowska, Poland
 Ogrody, Poland
 Siedlce, Poland
 KotuÅ„, Poland
-ÅšwiÄ™tochÅ‚owice, Poland
+ÅšwiÄ™tochłowice, Poland
 Cisiec, Poland
 Wegierska Gorka, Poland
 Trawniki, Poland
 Swidnik, Poland
 GiÅ¼ycko, Poland
 MszczonÃ³w, Poland
-KÅ‚odawa, Poland
+Kłodawa, Poland
 ZÄ…bki, Poland
-RadzyÅ„ CheÅ‚miÅ„ski, Poland
+RadzyÅ„ ChełmiÅ„ski, Poland
 Bierun, Poland
 Sosnowiec, Poland
 Gorno, Poland
@@ -79846,37 +79846,37 @@ Rabien, Poland
 Gadka Stara, Poland
 TomaszÃ³w Mazowiecki, Poland
 Sieradz, Poland
-BeÅ‚chatÃ³w, Poland
-KoÅ‚o, Poland
+BełchatÃ³w, Poland
+Koło, Poland
 Poswietne, Poland
 Chalupki, Poland
 Janin, Poland
 Braniewo, Poland
-BiaÅ‚a Podlaska, Poland
+Biała Podlaska, Poland
 Kamienna Gora, Poland
 GoleniÃ³w, Poland
 Ostrowiec ÅšwiÄ™tokrzyski, Poland
 Szypliszki, Poland
-WoÅ‚omin, Poland
+Wołomin, Poland
 Ruda ÅšlÄ…ska, Poland
-SÅ‚upsk, Poland
+Słupsk, Poland
 Budziska, Poland
 Tarnowskie Gory, Poland
 Police, Poland
-SÅ‚ubice, Poland
+Słubice, Poland
 Nowy Dwor Mazowiecki, Poland
 Kalisz, Poland
 MiÄ™dzyrzecz, Poland
 Wilczyce, Poland
 Debno, Poland
-PuÅ‚awy, Poland
+Puławy, Poland
 Tyczyn, Poland
 Poreba, Poland
 Piekary, Poland
 Tarnowiec, Poland
 Radgoszcz, Poland
 DÄ…browa GÃ³rnicza, Poland
-MikoÅ‚Ã³w, Poland
+MikołÃ³w, Poland
 Wieliczka, Poland
 Tychy, Poland
 Gorz, Poland
@@ -79888,7 +79888,7 @@ Fabianki, Poland
 Marki, Poland
 Znin, Poland
 Swarzedz, Poland
-PÅ‚ock, Poland
+Płock, Poland
 GrudziÄ…dz, Poland
 Dzierzazno, Poland
 Polkowice, Poland
@@ -79904,12 +79904,12 @@ WyszkÃ³w, Poland
 Strzegom, Poland
 Swiebodzice, Poland
 Oborniki ÅšlÄ…skie, Poland
-BiÅ‚goraj, Poland
+Biłgoraj, Poland
 Gmina Widawa, Poland
-InowrocÅ‚aw, Poland
+Inowrocław, Poland
 Anin, Poland
 Glowno, Poland
-TÅ‚uszcz, Poland
+Tłuszcz, Poland
 Nowe Skalmierzyce, Poland
 Konstancin-Jeziorna, Poland
 Kowalowa, Poland
@@ -79926,7 +79926,7 @@ Sadlinki, Poland
 Dabrowa Chotomowska, Poland
 Piekary Slaskie, Poland
 Piastow, Poland
-GÅ‚ogÃ³w, Poland
+GłogÃ³w, Poland
 Liszki, Poland
 Grodzisk Mazowiecki, Poland
 Krasnystaw, Poland
@@ -79950,9 +79950,9 @@ Plochocin, Poland
 Knurow, Poland
 Brochocin, Poland
 Barcin, Poland
-WÅ‚ocÅ‚awek, Poland
+Włocławek, Poland
 Jablonica, Poland
-CheÅ‚mno, Poland
+Chełmno, Poland
 Miedzyborow, Poland
 Serock, Poland
 Zielonka, Poland
@@ -79993,7 +79993,7 @@ Rostarzewo, Poland
 Ryman, Poland
 Swietoniowa, Poland
 Strzyzow, Poland
-PÅ‚oÅ„sk, Poland
+PłoÅ„sk, Poland
 Raciaz, Poland
 Solec Kujawski, Poland
 Bielsk, Poland
@@ -80003,7 +80003,7 @@ OstrÃ³da, Poland
 Korsze, Poland
 Starogard GdaÅ„ski, Poland
 MoÅ„ki, Poland
-SokoÅ‚Ã³w Podlaski, Poland
+SokołÃ³w Podlaski, Poland
 Suchy Las, Poland
 Wysogotowo, Poland
 Lulin, Poland
@@ -80018,7 +80018,7 @@ Puszczykowo, Poland
 Gniezno, Poland
 Stawiany, Poland
 Garby, Poland
-SzamotuÅ‚y, Poland
+Szamotuły, Poland
 Strzalkowo, Poland
 Buk, Poland
 Pleszew, Poland
@@ -80095,7 +80095,7 @@ Jarocin, Poland
 Lubraniec, Poland
 Kluczbork, Poland
 OsiÄ™ciny, Poland
-WÅ‚adysÅ‚awowo, Poland
+Władysławowo, Poland
 Cekcyn, Poland
 Tarnobrzeg, Poland
 Olkusz, Poland
@@ -80111,15 +80111,15 @@ Kolbudy, Poland
 BytÃ³w, Poland
 AleksandrÃ³w Kujawski, Poland
 Sadlno, Poland
-CheÅ‚mÅ¼a, Poland
+ChełmÅ¼a, Poland
 Karczew, Poland
-BÅ‚onie, Poland
+Błonie, Poland
 Jozefoslaw, Poland
 Zalubice Stare, Poland
-KoÅ‚biel, Poland
+Kołbiel, Poland
 Jutrosin, Poland
 Ustron, Poland
-WodzisÅ‚aw ÅšlÄ…ski, Poland
+Wodzisław ÅšlÄ…ski, Poland
 Strumien, Poland
 Lubon, Poland
 Åapy, Poland
@@ -80150,7 +80150,7 @@ Gubin, Poland
 Luban, Poland
 Kowary, Poland
 Piechowice, Poland
-BolesÅ‚awiec, Poland
+Bolesławiec, Poland
 Jawor, Poland
 Pieszkow, Poland
 Bystrzyca Klodzka, Poland
@@ -80162,7 +80162,7 @@ AleksandrÃ³w ÅÃ³dzki, Poland
 Rzeszotary, Poland
 Ozorkow, Poland
 Prochowice, Poland
-KÅ‚odzko, Poland
+Kłodzko, Poland
 Szymanow, Poland
 Kunice, Poland
 Zary, Poland
@@ -80188,9 +80188,9 @@ Wasilkow, Poland
 WÄ™grÃ³w, Poland
 Zmigrod, Poland
 Tczew, Poland
-SokÃ³Å‚ka, Poland
+SokÃ³łka, Poland
 Siemiatycze, Poland
-ZabÅ‚udÃ³w, Poland
+ZabłudÃ³w, Poland
 Mazancowice, Poland
 Sierpc, Poland
 ÅomÅ¼a, Poland
@@ -80217,7 +80217,7 @@ Radzanowo, Poland
 Pyrzyce, Poland
 Sompolno, Poland
 Å»ory, Poland
-BiaÅ‚ogard, Poland
+Białogard, Poland
 Swidwin, Poland
 Karlino, Poland
 Zaczernie, Poland
@@ -80244,7 +80244,7 @@ Wolsztyn, Poland
 Gmina Lipno, Poland
 Pogorzela, Poland
 Zalakowo, Poland
-SÅ‚uÅ¼ewo, Poland
+SłuÅ¼ewo, Poland
 Stargard SzczeciÅ„ski, Poland
 TrzebiatÃ³w, Poland
 Wolin, Poland
@@ -80276,7 +80276,7 @@ Nowa Deba, Poland
 Sidra, Poland
 Maslow, Poland
 Busko-ZdrÃ³j, Poland
-MichaÅ‚owo, Poland
+Michałowo, Poland
 Tykocin, Poland
 Bodzentyn, Poland
 Iwaniska, Poland
@@ -80304,7 +80304,7 @@ BoÄ‡ki, Poland
 Gmina Wyszki, Poland
 Zagnansk, Poland
 Olsztynek, Poland
-Gmina PoÅ‚aniec, Poland
+Gmina Połaniec, Poland
 Humniska, Poland
 Choroszcz, Poland
 Kamien, Poland
@@ -80344,7 +80344,7 @@ Dabrowa Chelminska, Poland
 Waganiec, Poland
 Swiekatowo, Poland
 Ciechocin, Poland
-KoÅ‚obrzeg, Poland
+Kołobrzeg, Poland
 Kobierzyce, Poland
 Pilawa, Poland
 Å»uromin, Poland
@@ -80352,7 +80352,7 @@ Latowicz, Poland
 Beblo, Poland
 Gmina Chmielno, Poland
 Zblewo, Poland
-MÅ‚awa, Poland
+Mława, Poland
 Racula, Poland
 Smolnik, Poland
 Laska, Poland
@@ -80390,7 +80390,7 @@ Rzgow Pierwszy, Poland
 Rawa Mazowiecka, Poland
 Regimin, Poland
 Tarczyn, Poland
-PuÅ‚tusk, Poland
+Pułtusk, Poland
 Ksieginice, Poland
 Golczewo, Poland
 Swieta Katarzyna, Poland
@@ -80434,9 +80434,9 @@ Krosno Odrzanskie, Poland
 Dukla, Poland
 Bazanowka, Poland
 Gogolin, Poland
-ZÅ‚otoryja, Poland
+Złotoryja, Poland
 Bielkowo, Poland
-GoÅ‚dap, Poland
+Gołdap, Poland
 Tuchola, Poland
 Brzeg Dolny, Poland
 Opoczno, Poland
@@ -80495,7 +80495,7 @@ Nowy Dwor, Poland
 Krzyki-Partynice, Poland
 Lobez, Poland
 Kowalew, Poland
-DziaÅ‚dowo, Poland
+Działdowo, Poland
 Piaski, Poland
 Grodki, Poland
 Rokietnica, Poland
@@ -80541,7 +80541,7 @@ Jawiszowice, Poland
 Stadla, Poland
 Walim, Poland
 Gmina MiÄ™kinia, Poland
-RyduÅ‚towy, Poland
+Rydułtowy, Poland
 Milkowice, Poland
 Poczesna, Poland
 Mierzecice, Poland
@@ -80630,7 +80630,7 @@ Rudnik nad Sanem, Poland
 Zurawica, Poland
 Rakszawa, Poland
 Majdan Krolewski, Poland
-IÅ‚awa, Poland
+Iława, Poland
 Kuligow, Poland
 Nacpolsk, Poland
 Stare Babice, Poland
@@ -80757,7 +80757,7 @@ Legowo, Poland
 Barczewo, Poland
 Swarzewo, Poland
 Leba, Poland
-PasÅ‚Ä™k, Poland
+PasłÄ™k, Poland
 Komorniki, Poland
 Kartuzy, Poland
 Raczki, Poland
@@ -80795,7 +80795,7 @@ Zawonia, Poland
 Wojkowice Koscielne, Poland
 Gowarzewo, Poland
 Wreczyca Wielka, Poland
-Gmina GoÅ‚uchÃ³w, Poland
+Gmina GołuchÃ³w, Poland
 Siekierczyn, Poland
 Dziegielow, Poland
 Wrzosowka, Poland
@@ -80803,7 +80803,7 @@ Oleszno, Poland
 Swarorzyn, Poland
 Falkowo, Poland
 Niechanowo, Poland
-KikÃ³Å‚, Poland
+KikÃ³ł, Poland
 Wielgie, Poland
 Radomin, Poland
 Otyn, Poland
@@ -80830,7 +80830,7 @@ Karnice, Poland
 Darnowo, Poland
 Skrzetusz, Poland
 Duszniki-Zdroj, Poland
-Gmina KostomÅ‚oty, Poland
+Gmina Kostomłoty, Poland
 Kielcz, Poland
 Pruszcz Pomorski, Poland
 Manowo, Poland
@@ -80862,7 +80862,7 @@ Kocierzew Poludniowy, Poland
 Karchowice, Poland
 Wierzchowisko, Poland
 Torzym, Poland
-CheÅ‚mce, Poland
+Chełmce, Poland
 Lipno, Poland
 Kleszczewo, Poland
 Gmina Kiszkowo, Poland
@@ -80910,7 +80910,7 @@ Stary DzierzgoÅ„, Poland
 Gmina PoddÄ™bice, Poland
 Gmina SulÄ™cin, Poland
 Nowe Miasto nad Warta, Poland
-GoÅ‚ubie, Poland
+Gołubie, Poland
 Sulmin, Poland
 Slawoszyno, Poland
 Mierzeszyn, Poland
@@ -81038,7 +81038,7 @@ Praca, Poland
 Kielno, Poland
 Rogozno, Poland
 Szreniawa, Poland
-Gmina WÅ‚adysÅ‚awÃ³w, Poland
+Gmina WładysławÃ³w, Poland
 Gniewino, Poland
 Luzino, Poland
 GoÅ›cicino, Poland
@@ -81113,9 +81113,9 @@ Zagorzyce, Poland
 Iwierzyce, Poland
 Nawodna, Poland
 Warzymice, Poland
-DarÅ‚owo, Poland
+Darłowo, Poland
 Ostrowy, Poland
-MiÅ‚ki, Poland
+Miłki, Poland
 WÄ™gorzewo, Poland
 Prabuty, Poland
 Stare Miasto, Poland
@@ -81149,7 +81149,7 @@ Zernica, Poland
 Biezanow-Prokocim, Poland
 Prokocim, Poland
 Suwaki, Poland
-JabÅ‚onowo Pomorskie, Poland
+Jabłonowo Pomorskie, Poland
 Krzywcza, Poland
 Zabrzeg, Poland
 Zglobien, Poland
@@ -81257,9 +81257,9 @@ Bobrza, Poland
 Dzielna, Poland
 Zarszyn, Poland
 Huta Dabrowa, Poland
-CegÅ‚Ã³w, Poland
+CegłÃ³w, Poland
 Borowa, Poland
-BiaÅ‚a Rawska, Poland
+Biała Rawska, Poland
 Kolonia Zawada, Poland
 Sochocin, Poland
 Staniszow, Poland
@@ -81350,7 +81350,7 @@ Tuchow, Poland
 Lipnica Murowana, Poland
 Wysoka, Poland
 Pawlowice, Poland
-Czarna BiaÅ‚ostocka, Poland
+Czarna Białostocka, Poland
 RadziejÃ³w, Poland
 Scinawa Mala, Poland
 Jastrzebie, Poland
@@ -81429,7 +81429,7 @@ Radoszyce, Poland
 Nowy Korczyn, Poland
 Pacanow, Poland
 Grabki Duze, Poland
-Gmina SzydÅ‚Ã³w, Poland
+Gmina SzydłÃ³w, Poland
 Strawczyn, Poland
 Kedzierzyn, Poland
 Bolkow, Poland
@@ -81824,7 +81824,7 @@ Sinj, Croatia
 Karlovac, Croatia
 Rijeka, Croatia
 Gornja Lomnica, Croatia
-Å ibenik, Croatia
+Šibenik, Croatia
 Zlatar, Croatia
 Novi Vinodolski, Croatia
 Dubrovnik, Croatia
@@ -82016,12 +82016,12 @@ Viimsi, Estonia
 Tabasalu, Estonia
 Keila, Estonia
 Rakvere, Estonia
-SillamÃ¤e, Estonia
-Kohtla-JÃ¤rve, Estonia
+Sillamäe, Estonia
+Kohtla-Järve, Estonia
 Tartu, Estonia
 JÃµhvi, Estonia
 Viljandi, Estonia
-PÃ¤rnu, Estonia
+Pärnu, Estonia
 Paide, Estonia
 Türi, Estonia
 Harku, Estonia
@@ -82076,7 +82076,7 @@ Somerpalu, Estonia
 Tapa, Estonia
 Kose, Estonia
 Haage, Estonia
-JÃµelÃ¤htme Parish, Estonia
+JÃµelähtme Parish, Estonia
 Ambla, Estonia
 Kadrina, Estonia
 Syare, Estonia
@@ -82085,7 +82085,7 @@ Rakke, Estonia
 Avinurme, Estonia
 Halinga, Estonia
 Kilingi-NÃµmme, Estonia
-KÃ¤rdla, Estonia
+Kärdla, Estonia
 Paikuse, Estonia
 Riga, Latvia
 Centrs, Latvia
