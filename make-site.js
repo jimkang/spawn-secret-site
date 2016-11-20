@@ -5,17 +5,8 @@ var callNextTick = require('call-next-tick');
 // var sb = require('standard-bail')();
 var curry = require('lodash.curry');
 var waterfall = require('async-waterfall');
-
-var maxGeoBounds = {
-  southwest: {
-    lat: -90,
-    lng: -180
-  },
-  northeast: {
-    lat: 90,
-    lng: 180
-  }
-};
+var pickLocationInBounds = require('./pick-location-in-bounds');
+var makeRandomLocation = require('./make-random-location');
 
 function MakeSite({probable}) {
   var siteTable = probable.createTableFromSizes(siteDefs);
@@ -58,7 +49,7 @@ function MakeSite({probable}) {
     // TODO: Physical details?
 
     function pickLocationInGeoEntity(bounds, done) {
-      location = pickLocationInBounds(bounds);
+      location = pickLocationInBounds(probable, bounds);
       callNextTick(done);
     }
 
@@ -78,15 +69,6 @@ function MakeSite({probable}) {
     }
   }
 
-  function pickLocationInBounds(bounds) {
-    console.log('bounds', bounds);
-    var xRange = (bounds.northeast.lng - bounds.southwest.lng) * 100;
-    var yRange = (bounds.northeast.lat - bounds.southwest.lat) * 100;
-    return {
-      lng: bounds.southwest.lng + probable.roll(xRange)/100,
-      lat: bounds.southwest.lat + (probable.roll(yRange/2) + probable.roll(yRange/2))/100
-    };
-  }
 }
 
 module.exports = MakeSite;
