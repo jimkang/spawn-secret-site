@@ -63,7 +63,7 @@ module.exports = [
   [1, 'bathhouse'],
   [1, 'sport club'],
   [1, 'workshop'],
-  [1, 'grotto']
+  [1, 'grotto'],
 
   [1, 'attic'],
   [1, 'forge'],
