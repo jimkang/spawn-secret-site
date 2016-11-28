@@ -7,3 +7,5 @@ pushall:
 lint:
 	./node_modules/.bin/eslint .
 
+merge-pdfs:
+	pdfconcat -o merged.pdf tools/pdfs/*.pdf
