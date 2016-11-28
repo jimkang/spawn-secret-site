@@ -1,12 +1,11 @@
 var siteDefs = require('./table-defs/sites/site-types');
-var getBoundsForGeoEntity = require('./get-bounds-for-geo-entity');
 var getContainingGeoEntity = require('./get-containing-geo-entity');
 var callNextTick = require('call-next-tick');
 // var sb = require('standard-bail')();
 var curry = require('lodash.curry');
 var waterfall = require('async-waterfall');
 var pickLocationInBounds = require('./pick-location-in-bounds');
-var makeRandomLocation = require('./make-random-location');
+var reference = require('./reference');
 
 function MakeSite({probable}) {
   var siteTable = probable.createTableFromSizes(siteDefs);
@@ -25,18 +24,13 @@ function MakeSite({probable}) {
     ];
 
     // makeLocationDetails({builder: builder}, sb(passSite, done));
-    if (builder.isAPlace) {
+    if (builder.bounds) {
       containingGeoEntity = builder.name;
-      waterfall(
-        [
-          curry(getBoundsForGeoEntity)(builder.name),
-          pickLocationInGeoEntity
-        ],
-        passSite
-      );
+      location = pickLocationInBounds(probable, builder.bounds);
+      callNextTick(passSite);
     }
     else {
-      location = pickLocationInBounds(maxGeoBounds);
+      location = pickLocationInBounds(probable, reference.maxGeoBounds);
       waterfall(
         [
           curry(getContainingGeoEntity)(location),
@@ -47,11 +41,6 @@ function MakeSite({probable}) {
     }
 
     // TODO: Physical details?
-
-    function pickLocationInGeoEntity(bounds, done) {
-      location = pickLocationInBounds(probable, bounds);
-      callNextTick(done);
-    }
 
     function saveContainingGeoEntity(entity, done) {
       containingGeoEntity = entity;

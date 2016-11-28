@@ -1,11 +1,9 @@
+/* global process */
+
 var config = require('../config');
 var request = require('request');
-var sb = require('standard-bail')();
-var pluck = require('lodash.pluck');
-var through2 = require('through2');
 var through2Batch = require('through2-batch');
 var split = require('split');
-var callNextTick = require('call-next-tick');
 var ndjson = require('ndjson');
 
 // Usage: cat line-separated-cities.txt | node geocode-cities.js

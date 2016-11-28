@@ -1,5 +1,3 @@
-/* global process */
-
 var MakeOrganization = require('../make-organization');
 var seedrandom = require('seedrandom');
 var createProbable = require('probable').createProbable;

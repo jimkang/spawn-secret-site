@@ -1,5 +1,5 @@
-function pickLocationInBounds(probabe, bounds) {
-  console.log('bounds', bounds);
+function pickLocationInBounds(probable, bounds) {
+  // console.log('bounds', bounds);
   var xRange = (bounds.northeast.lng - bounds.southwest.lng) * 100;
   var yRange = (bounds.northeast.lat - bounds.southwest.lat) * 100;
   return {
