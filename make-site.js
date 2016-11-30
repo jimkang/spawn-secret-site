@@ -6,9 +6,11 @@ var curry = require('lodash.curry');
 var waterfall = require('async-waterfall');
 var pickLocationInBounds = require('./pick-location-in-bounds');
 var reference = require('./reference');
+var modernGeopoliticalEntitiesDefs = require('./table-defs/organizations/modern-geopolitical-entities');
 
 function MakeSite({probable}) {
   var siteTable = probable.createTableFromSizes(siteDefs);
+  var geopoliticalEntityTable = probable.createTableFromSizes(modernGeopoliticalEntitiesDefs);
 
   return makeSite;
 
@@ -29,7 +31,8 @@ function MakeSite({probable}) {
       location = pickLocationInBounds(probable, builder.bounds);
       callNextTick(passSite);
     }
-    else {
+    else if (probable.roll(8) === 0) {
+      // Pick from anywhere in the world. This'll probably end up in the ocean.
       location = pickLocationInBounds(probable, reference.maxGeoBounds);
       waterfall(
         [
@@ -38,6 +41,13 @@ function MakeSite({probable}) {
         ],
         passSite
       );
+    }
+    else {
+      var entity = geopoliticalEntityTable.roll();
+      // console.error('entity', entity)
+      containingGeoEntity = entity.name;
+      location = pickLocationInBounds(probable, entity.bounds);
+      callNextTick(passSite);
     }
 
     // TODO: Physical details?

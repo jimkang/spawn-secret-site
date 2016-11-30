@@ -1,5 +1,3 @@
-var countries = require('./countries');
-var cities = require('./cities');
 var empires = require('./empires');
 var middleEasternEmpires = require('./middle-eastern-empires');
 var medievalPowers = require('./medieval-powers');
@@ -7,14 +5,14 @@ var carCompanies = require('./car-companies');
 var publicCorps = require('./public-corps');
 var newspapers = require('./newspapers');
 var religions = require('./religions');
+var modernGeopoliticalEntities = require('./modern-geopolitical-entities');
 
 module.exports = [
   [
     10, 
     // 'government'
     [
-      [4, countries],
-      [5, cities],
+      [10, modernGeopoliticalEntities],
       [
         6,
         [

@@ -4,7 +4,7 @@ var seedrandom = require('seedrandom');
 var createProbable = require('probable').createProbable;
 
 var seed = (new Date()).toISOString();
-console.log('seed:', seed);
+console.error('seed:', seed);
 
 var random = seedrandom(seed);
 
