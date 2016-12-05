@@ -1,3 +1,5 @@
+/* global process */
+
 var phantom = require('phantom-render-stream');
 var fs = require('fs');
 

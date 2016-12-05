@@ -45,16 +45,10 @@ function MakeOrganization({probable}) {
       name = entry;
     }
 
-    var enemies = [];
-    for (var i = 0; i < probable.rollDie(3); ++i) {
-      enemies.push(organizationTable.roll());
-    }
-
     return {
       name: name,
       location: location,
       bounds: bounds,
-      enemies: enemies,
       power: probable.roll(6) + probable.roll(6),
       reach: probable.roll(6) + probable.roll(6),
       wealth: probable.roll(6) + probable.roll(6)

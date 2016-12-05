@@ -9,3 +9,6 @@ lint:
 
 merge-pdfs:
 	pdfconcat -o merged.pdf tools/pdfs/*.pdf
+
+build-initial-organizations:
+	(date +"%Y-%m-%d %H:%M:%S")
