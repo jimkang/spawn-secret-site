@@ -51,7 +51,8 @@ function MakeOrganization({probable}) {
       bounds: bounds,
       power: probable.roll(6) + probable.roll(6),
       reach: probable.roll(6) + probable.roll(6),
-      wealth: probable.roll(6) + probable.roll(6)
+      wealth: probable.roll(6) + probable.roll(6),
+      sites: []
     };
   }
 }

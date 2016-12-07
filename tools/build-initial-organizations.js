@@ -33,8 +33,11 @@ for (var i = 0; i < numberOfOrgs; ++i) {
 var organizationDict = {};
 organizations.forEach(modifyOrganization);
 
-console.log(JSON.stringify(organizationDict, null, '  '));
+var state = {
+  organizations: organizationDict
+};
 
+console.log(JSON.stringify(state, null, '  '));
 
 function modifyOrganization(organization) {
   addEnemies(organization);
