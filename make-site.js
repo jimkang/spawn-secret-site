@@ -7,15 +7,19 @@ var waterfall = require('async-waterfall');
 var pickLocationInBounds = require('./pick-location-in-bounds');
 var reference = require('./reference');
 var modernGeopoliticalEntitiesDefs = require('./table-defs/organizations/modern-geopolitical-entities');
+var NameSite = require('./name-site');
 
 function MakeSite({probable}) {
   var siteTable = probable.createTableFromSizes(siteDefs);
   var geopoliticalEntityTable = probable.createTableFromSizes(modernGeopoliticalEntitiesDefs);
+  var nameSite = NameSite({probable: probable});
 
   return makeSite;
 
   function makeSite({builder}, siteDone) {
-    var name = siteTable.roll();
+    var siteType = siteTable.roll();
+    var id = siteType + '_' + builder.name;
+    var name = nameSite({builderName: builder.name, siteType: siteType});
     var location;
     var containingGeoEntity;
     var history = [
@@ -59,10 +63,14 @@ function MakeSite({probable}) {
 
     function passSite() {
       var site = {
+        id: id,
         name: name,
+        siteType: siteType,
         location: location,
         containingGeoEntity: containingGeoEntity,
-        history: history
+        history: history,
+        hiddenness: probable.rollDie(10),
+        defensibility: probable.rollDie(10)
       };
       siteDone(null, site);
     }

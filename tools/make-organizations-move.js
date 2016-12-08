@@ -25,8 +25,6 @@ var probable = createProbable({
 var makeSite = MakeSite({probable: probable});
 var state = JSON.parse(fs.readFileSync(stateFile));
 
-var siteDict = {};
-
 if (!('sites' in state)) {
   state.sites = {};
 }
@@ -42,7 +40,10 @@ function queueMove(name) {
 function makeMove(name, done) {
   var organization = state.organizations[name];
 
-  if (organization.sites.length < 1) {
+  // Kinds of moves: Building, finding, destroying, conquering. Sharing? Aligning?
+  if (organization.sites.length < 1 ||
+    organization.reach + organization.wealth > probable.rollDie(30)) {
+
     makeSite({builder: organization}, sb(addSite, done));
   }
   else {
@@ -50,8 +51,8 @@ function makeMove(name, done) {
   }
 
   function addSite(site) {
-    state.sites[site.name] = site;
-    organization.sites.push(site.name);
+    state.sites[site.id] = site;
+    organization.sites.push(site.id);
     done();
   }
 }
