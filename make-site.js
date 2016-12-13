@@ -22,10 +22,11 @@ function MakeSite({probable}) {
     var name = nameSite({builderName: builder.name, siteType: siteType});
     var location;
     var containingGeoEntity;
+    var currentOwner = builder.name;
     var history = [
       {
         event: 'built', // TODO: Discovered?
-        actor: builder
+        actor: builder.name
       }
     ];
 
@@ -69,6 +70,7 @@ function MakeSite({probable}) {
         location: location,
         containingGeoEntity: containingGeoEntity,
         history: history,
+        currentOwner: currentOwner,
         hiddenness: probable.rollDie(10),
         defensibility: probable.rollDie(10)
       };

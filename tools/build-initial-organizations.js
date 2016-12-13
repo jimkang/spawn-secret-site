@@ -3,7 +3,7 @@
 var MakeOrganization = require('../make-organization');
 var seedrandom = require('seedrandom');
 var createProbable = require('probable').createProbable;
-var addEnemiesToOrganization = require('../add-enemies-to-organization');
+var addAlliesToOrganization = require('../add-allies-to-organization');
 
 if (process.argv.length < 3) {
   console.error('Usage: node tools/build-initial-organizations.js <seed string> [number of orgs]');
@@ -40,12 +40,12 @@ var state = {
 console.log(JSON.stringify(state, null, '  '));
 
 function modifyOrganization(organization) {
-  addEnemies(organization);
+  addAllies(organization);
   addToDict(organization);
 }
 
-function addEnemies(organization) {
-  addEnemiesToOrganization({
+function addAllies(organization) {
+  addAlliesToOrganization({
     organization: organization, existingOrganizations: organizations, probable: probable
   });
 }
