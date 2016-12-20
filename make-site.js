@@ -50,7 +50,7 @@ function MakeSite({probable}) {
     else {
       var entity = geopoliticalEntityTable.roll();
       // console.error('entity', entity)
-      containingGeoEntity = entity.name;
+      containingGeoEntity = entity;
       location = pickLocationInBounds(probable, entity.bounds);
       callNextTick(passSite);
     }
