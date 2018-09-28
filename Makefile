@@ -2,15 +2,13 @@ test:
 	node tests/basictests.js
 
 pushall:
-	git push origin master && npm publish
-
-lint:
-	./node_modules/.bin/eslint .
+	git push origin master
 
 merge-pdfs:
 	pdfconcat -o merged.pdf tools/pdfs/*.pdf
 
-build-initial-organizations:
+# I have no idea what this is.
+show-date:
 	(date +"%Y-%m-%d %H:%M:%S")
 
 run-four-test-generations:

@@ -6,19 +6,23 @@ Spawns a Secret Site.
 Installation
 ------------
 
-    npm install spawn-secret-site
+- Clone this repo.
+- Create a config.js that looks like:
+
+    module.exports = {
+      wordnikAPIKey: <Wordnik API Key>,
+      mapquestKey: <Key from https://developer.mapquest.com/user/me/apps >
+    };
 
 Usage
 -----
 
-    var someFactory = require('spawn-secret-site');
-    var thing = someFactory();
-    thing.use();
 
-Tests
------
+Clone [secret-site-web](https://github.com/jimkang/secret-site-web) in a parallel directory, and create a `data` directory there. Then, run:
 
-Run tests with `make test`.
+    make run-four-test-generations
+
+The above target writes its final output to secret-site-web/data. Run `secret-site-web`, then open a browser to `http://localhost:9966/#index` to view the secret sites! (Currently, there is a bug in which some links will put a ? in the route, which will mess things up. You need to manually take it out.)
 
 License
 -------
